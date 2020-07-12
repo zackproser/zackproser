@@ -18,7 +18,7 @@ I'm a software engineer at [Gruntwork](https://github.com/gruntwork-io), working
     <td>
       <ul>
         <li>:notebook_with_decorative_cover: <a href="https://zackproser.com/blog">Blog</a></li>
-        <li>:books:<a href="https://medium.com/@zackproser">Medium articles</a></li>
+        <li>:books: <a href="https://medium.com/@zackproser">Medium</a></li>
       </ul>
     </td>
     <td>
