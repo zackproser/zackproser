@@ -3,7 +3,7 @@
 I'm a software engineer at [Gruntwork](https://github.com/gruntwork-io). Previously: [Cloudflare](https://cloudflare.com), [Cloudmark](https://cloudmark.com) and [BrightContext](https://www.crunchbase.com/organization/brightcontext). 
 
 ## Interests
-Golang, Javascript, Infrastructure as code, AWS and distributed systems.
+Golang, Javascript, Infrastructure as code, AWS and distributed systems. Drawing and painting.
 
 ## Links
 
