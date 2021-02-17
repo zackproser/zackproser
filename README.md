@@ -1,4 +1,4 @@
-[![Carbon Neutral Human](./img/carbon-wren.png)](https://www.wren.co/profile/ZackProser)
+[![Carbon Neutral Human](./img/carbon-wren.png)](https://www.wren.co/join/ZackProser?utm_campaign=share&utm_medium=profile_referral_link)
 
 # Howdy :wave:
 
