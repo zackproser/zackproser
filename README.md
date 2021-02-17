@@ -1,3 +1,5 @@
+[![Carbon Neutral Human](./img/carbon-wren.png)](https://www.wren.co/profile/ZackProser)
+
 # Howdy :wave:
 
 I'm a software engineer at [Gruntwork](https://github.com/gruntwork-io). Previously: [Cloudflare](https://cloudflare.com), [Cloudmark](https://cloudmark.com) and [BrightContext](https://www.crunchbase.com/organization/brightcontext). 
