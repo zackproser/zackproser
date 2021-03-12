@@ -1,5 +1,7 @@
 [![Carbon Neutral Human](./img/carbon-wren.png)](https://www.wren.co/join/ZackProser?utm_campaign=share&utm_medium=profile_referral_link)
 
+[How I built a serverless app that auto-rotates this badge ^](https://link.medium.com/M1dB6y4Nzeb)
+
 # Howdy :wave:
 
 I'm a software engineer at [Gruntwork](https://github.com/gruntwork-io). Previously: [Cloudflare](https://cloudflare.com), [Cloudmark](https://cloudmark.com) and [BrightContext](https://www.crunchbase.com/organization/brightcontext). 
