@@ -42,7 +42,7 @@ Golang, Javascript, Infrastructure as code, AWS and distributed systems. Drawing
    </td>
     <td>
      <ul> 
-       <li><a href="https://keybase.io/zackproser">Keybase</a></li>j
+       <li><a href="https://keybase.io/zackproser">Keybase</a></li>
        <li><a href="https://linkedin.com/in/zackproser/">LinkedIn</a></li>
       </ul>
     </td>
