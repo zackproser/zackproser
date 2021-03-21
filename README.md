@@ -42,10 +42,35 @@ Golang, Javascript, Infrastructure as code, AWS and distributed systems. Drawing
    </td>
     <td>
      <ul> 
-       <li><a href="https://keybase.io/zackproser">Keybase</a></li>
+       <li><a href="https://keybase.io/zackproser">Keybase</a></li>j
        <li><a href="https://linkedin.com/in/zackproser/">LinkedIn</a></li>
       </ul>
     </td>
+  </tr>
+</tbody>
+</table>
+
+## Certifications
+
+<table>
+<thead>
+  <tr>
+    <th> AWS Solutions Architect Associate </th>
+    <th> Hashicorp Terraform Associate </th>
+    <th> AWS Cloud Practitioner </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+        <a href="https://www.youracclaim.com/badges/baf2a178-fbb6-4e3b-bee3-a4e51bf1ecb4/public_url"><img src="./img/aws-solutions-architect-assoc.png"></a>
+    </td>
+    <td>
+        <a href="https://www.youracclaim.com/badges/db9c63f6-1449-441d-b1b4-19b4fb3c76e5/public_url"><img src="./img/terraform-associate.png"></a>
+    </td>
+    <td> 
+        <a href="https://www.youracclaim.com/badges/94158be5-a0ea-4de4-9c66-5c087fac246e/public_url"><img src="./img/aws-cloud-practitioner.png"></a>
+   </td>
   </tr>
 </tbody>
 </table>
