@@ -56,6 +56,7 @@ Golang, Javascript, Infrastructure as code, AWS and distributed systems. Drawing
 <table>
 <thead>
   <tr>
+    <th> AWS Sysops Administrator Associate </th>
     <th> AWS Developer Associate </th>
     <th> AWS Solutions Architect Associate </th>
     <th> Hashicorp Terraform Associate </th>
@@ -64,6 +65,9 @@ Golang, Javascript, Infrastructure as code, AWS and distributed systems. Drawing
 </thead>
 <tbody>
   <tr>
+    <td>
+        <a href="https://www.credly.com/badges/a8867c79-5eef-4231-a939-6e4e2993ca4b/public_url"><img src="./img/aws-sysops-assoc.png"></a>
+    </td>
     <td>
         <a href="https://www.credly.com/badges/6b6bcd25-c114-40ec-988c-d85118a62413/public_url"><img src="./img/aws-developer-assoc.png"></a> 
     </td>
