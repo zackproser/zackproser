@@ -56,7 +56,7 @@ Golang, Javascript, Infrastructure as code, AWS and distributed systems. Drawing
 <table>
 <thead>
   <tr>
-    <th> AWS Sys Admin Associate </th>
+    <th> AWS SysOps Admin Associate </th>
     <th> AWS Developer Associate </th>
     <th> AWS Solutions Architect Associate </th>
     <th> Hashicorp Terraform Associate </th>
