@@ -17,6 +17,7 @@ Golang, Javascript, Infrastructure as code, AWS and distributed systems. Drawing
 <table>
 <thead>
   <tr>
+    <th>:clapper: Video :movie_camera:</th>
     <th>:notebook_with_decorative_cover: Writing :books:</th>
     <th>:octocat: Portfolio :computer:</th>
     <th>:camera: Art :art:</th>
@@ -25,6 +26,12 @@ Golang, Javascript, Infrastructure as code, AWS and distributed systems. Drawing
 </thead>
 <tbody>
   <tr>
+<td>
+   <ul>
+        <li><a href="https://twitch.tv/zackproser">Twitch</a></li>
+        <li><a href="https://youtube.com/@zackproser">YouTube</a></li>
+      </ul>
+    </td>
     <td>
       <ul>
         <li><a href="https://zackproser.com/blog">Blog</a></li>
