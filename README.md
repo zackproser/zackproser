@@ -1,12 +1,14 @@
+[![Subscribe to my newsletter](./img/newsletter-subscribe.png)](https://zackproser.com/subscribe)
+
+# Howdy :wave:
+
+I'm a senior software engineer at [Gruntwork](https://github.com/gruntwork-io). Previously: [Cloudflare](https://cloudflare.com), [Cloudmark](https://cloudmark.com) and [BrightContext](https://www.crunchbase.com/organization/brightcontext).
+
 [Join me on wren.co to support projects addressing climate change](https://www.wren.co/join/ZackProser?utm_campaign=share&utm_medium=profile_referral_link):
 
 [![Carbon Neutral Human](./img/carbon-wren.png)](https://www.wren.co/join/ZackProser?utm_campaign=share&utm_medium=profile_referral_link)
 
 :book: [Tutorial: How I built a serverless app that auto-rotates this badge ^](https://link.medium.com/M1dB6y4Nzeb)
-
-# Howdy :wave:
-
-I'm a senior software engineer at [Gruntwork](https://github.com/gruntwork-io). Previously: [Cloudflare](https://cloudflare.com), [Cloudmark](https://cloudmark.com) and [BrightContext](https://www.crunchbase.com/organization/brightcontext).
 
 ## Interests
 
