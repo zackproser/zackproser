@@ -1,4 +1,4 @@
-[![Subscribe to my newsletter](./img/newsletter-subscribe.png)](https://zackproser.com/subscribe)
+[![Subscribe to my newsletter](./img/newsletter-subscribe.png)](https://zackproser.com/subscribe?referrer=github-profile)
 
 # Howdy :wave:
 
