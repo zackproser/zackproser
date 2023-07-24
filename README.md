@@ -2,7 +2,9 @@
 
 # Howdy :wave:
 
-I'm a senior software engineer at [Gruntwork](https://github.com/gruntwork-io). Previously: [Cloudflare](https://cloudflare.com), [Cloudmark](https://cloudmark.com) and [BrightContext](https://www.crunchbase.com/organization/brightcontext).
+I'm a staff developer advocate at [Pinecone](https://github.com/pinecone-io). Previously:
+[Gruntwork.io](https://gruntwork.io)
+[Cloudflare](https://cloudflare.com), [Cloudmark](https://cloudmark.com) and [BrightContext](https://www.crunchbase.com/organization/brightcontext).
 
 [Join me on wren.co to support projects addressing climate change](https://www.wren.co/join/ZackProser?utm_campaign=share&utm_medium=profile_referral_link):
 
