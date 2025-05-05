@@ -51,9 +51,31 @@
 
 ### Premium Tutorials
 
-- [RAG Pipeline Tutorial (Premium)](https://zackproser.com/products/rag-pipeline-tutorial)
-- [Vibe Coding Mastery (Premium)](https://zackproser.com/products/vibe-coding-mastery)
-- [Vibe Coding Guide (Free)](https://zackproser.com/blog/vibe-coding-guide)
+<div align="center" style="display:flex;flex-wrap:wrap;gap:32px;justify-content:center;margin:32px 0;">
+
+  <div style="background:#faf9f6;border-radius:18px;box-shadow:0 4px 24px rgba(0,0,0,0.08);width:340px;max-width:95vw;padding:24px 18px 18px 18px;display:flex;flex-direction:column;align-items:center;margin:0 8px;">
+    <img src="img/rag-chatbot.avif" alt="RAG Pipeline Tutorial" style="width:100%;border-radius:12px;margin-bottom:18px;"/>
+    <h3 style="margin:0 0 10px 0;font-size:1.3em;">RAG Pipeline Tutorial</h3>
+    <p style="font-size:1em;margin:0 0 18px 0;">Build a production-ready Retrieval Augmented Generation (RAG) pipeline with LangChain, OpenAI, and Pinecone. Includes a Jupyter notebook, Next.js example, and step-by-step guide. <b>No hallucinations, real answers.</b></p>
+    <a href="https://zackproser.com/products/rag-pipeline-tutorial" style="background:#7c3aed;color:#fff;padding:10px 22px;border-radius:8px;font-weight:bold;text-decoration:none;font-size:1.1em;">View Tutorial</a>
+  </div>
+
+  <div style="background:#faf9f6;border-radius:18px;box-shadow:0 4px 24px rgba(0,0,0,0.08);width:340px;max-width:95vw;padding:24px 18px 18px 18px;display:flex;flex-direction:column;align-items:center;margin:0 8px;">
+    <img src="img/vibe-coding-premium.avif" alt="Vibe Coding Mastery" style="width:100%;border-radius:12px;margin-bottom:18px;"/>
+    <h3 style="margin:0 0 10px 0;font-size:1.3em;">Vibe Coding Mastery</h3>
+    <p style="font-size:1em;margin:0 0 18px 0;">Master the art of coding with AI as your pair. Learn to build, debug, and ship faster using the latest GenAI tools and best practices. <b>Unlock creative, efficient workflows.</b></p>
+    <a href="https://zackproser.com/products/vibe-coding-mastery" style="background:#7c3aed;color:#fff;padding:10px 22px;border-radius:8px;font-weight:bold;text-decoration:none;font-size:1.1em;">View Tutorial</a>
+    <a href="https://zackproser.com/blog/vibe-coding-guide" style="margin-top:8px;font-size:0.98em;color:#7c3aed;text-decoration:underline;">Free Version</a>
+  </div>
+
+  <div style="background:#faf9f6;border-radius:18px;box-shadow:0 4px 24px rgba(0,0,0,0.08);width:340px;max-width:95vw;padding:24px 18px 18px 18px;display:flex;flex-direction:column;align-items:center;margin:0 8px;">
+    <img src="img/multiple-git-profiles.avif" alt="Multiple Git Profiles" style="width:100%;border-radius:12px;margin-bottom:18px;"/>
+    <h3 style="margin:0 0 10px 0;font-size:1.3em;">Multiple Git Profiles</h3>
+    <p style="font-size:1em;margin:0 0 18px 0;">Easily manage multiple Git identities for work, open source, and personal projects. Step-by-step guide to seamless context switching and best practices for professional developers.</p>
+    <a href="https://zackproser.com/products/multiple-git-profiles" style="background:#7c3aed;color:#fff;padding:10px 22px;border-radius:8px;font-weight:bold;text-decoration:none;font-size:1.1em;">View Tutorial</a>
+  </div>
+
+</div>
 
 ---
 
