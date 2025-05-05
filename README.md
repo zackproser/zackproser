@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="img/hero.webp" width="900" alt="Modern Coding " />
+  <img src="img/hero.webp" width="900" alt="Modern Coding" />
 </p>
 
 <h1 align="center">AI Engineering Mastery for Developers Who Ship🚀</h1>
 
 <p align="center">
-  I help professional devs build production‑grade AI features with <strong>Next.js 15, Vercel AI SDK, Pinecone & LangChain.</strong><br/>
+  I help professional devs and companies build production‑grade AI features with <strong>Next.js 15, the [Vercel AI SDK](https://zackproser.com/blog/vercel-ai-sdk), vector databases, Infrastructure as Code and cloud platforms like AWS and Vercel</strong><br/>
   <em>Grab the free 7‑day email series + starter repo below.</em>
 </p>
 
@@ -47,7 +47,7 @@
 
 | Platform | Focus |
 |----------|-------|
-| 📝 [Blog](https://moderncoding.dev/insights) | deep dives & tutorials |
+| 📝 [Blog](https://zackproser.com/blog) | deep dives & tutorials |
 | 🧵 [Twitter/X](https://twitter.com/zackproser) | daily AI dev threads |
 | 🔗 [LinkedIn](https://www.linkedin.com/in/zackproser/) | long‑form breakdowns & case studies |
 | 🎥 [YouTube](https://youtube.com/@zackproser) | screencast courses |
