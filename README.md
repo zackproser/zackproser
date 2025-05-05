@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://moderncoding.dev/#subscribe?utm_source=github&utm_medium=profile">
+  <a href="https://zackproser.com/">
     <img src="https://img.shields.io/badge/Join%201,500%2B%20Engineers%20%E2%9C%85-Start%20Here-purple?style=for-the-badge" alt="Subscribe CTA"/>
   </a>
   &nbsp;
-  <a href="https://moderncoding.dev/courses?utm_source=github&utm_medium=profile">
+  <a href="https://zackproser.com/products">
     <img src="https://img.shields.io/badge/View%20Premium%20Tutorials-gold?style=for-the-badge" alt="Premium tutorials CTA"/>
   </a>
 </p>
