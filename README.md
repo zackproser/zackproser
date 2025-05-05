@@ -5,7 +5,7 @@
 <h1 align="center">AI Engineering Mastery for Developers Who Ship🚀</h1>
 
 <p align="center">
-  I help professional devs and companies build production‑grade AI features with <strong>Next.js 15, the [Vercel AI SDK](https://zackproser.com/blog/vercel-ai-sdk), vector databases, Infrastructure as Code and cloud platforms like AWS and Vercel</strong><br/>
+  I help professional devs and companies build production‑grade AI features with <strong>Next.js 15, the <a href="https://zackproser.com/blog/vercel-ai-sdk">Vercel AI SDK, Infrastructure as Code and cloud platforms.</strong><br/>
   <em>Grab the free 7‑day email series + starter repo below.</em>
 </p>
 
