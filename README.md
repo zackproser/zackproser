@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://moderncoding.dev/#subscribe?utm_source=github&utm_medium=profile">
+  <a href="https://zackproser.com/">
     <img src="https://img.shields.io/badge/Join%201,500%2B%20Engineers%20%E2%9C%85-Start%20Here-purple?style=for-the-badge" alt="Subscribe CTA"/>
   </a>
   &nbsp;
-  <a href="https://moderncoding.dev/courses?utm_source=github&utm_medium=profile">
+  <a href="https://zackproser.com/products">
     <img src="https://img.shields.io/badge/View%20Premium%20Tutorials-gold?style=for-the-badge" alt="Premium tutorials CTA"/>
   </a>
 </p>
@@ -31,13 +31,16 @@
 
 ### Trusted By
 
-<p align="left">
-  <!-- Replace logo paths with self‑hosted SVG/PNG -->
-  <img src="/img/cloudflare.svg" height="40" alt="Cloudflare"/>
-  &nbsp;&nbsp;
-  <img src="/img/gruntwork.svg" height="40" alt="Gruntwork"/>
-  &nbsp;&nbsp;
-  <img src="/img/pinecone.svg" height="40" alt="Pinecone"/>
+<p align="center">
+  <a href="https://www.cloudflare.com" target="_blank" rel="noopener noreferrer">
+    <img src="/img/cloudflare.svg" alt="Cloudflare logo" width="120" height="48" style="margin:0 18px;vertical-align:middle;">
+  </a>
+  <a href="https://gruntwork.io" target="_blank" rel="noopener noreferrer">
+    <img src="/img/gruntwork.svg" alt="Gruntwork logo" width="120" height="48" style="margin:0 18px;vertical-align:middle;">
+  </a>
+  <a href="https://www.pinecone.io" target="_blank" rel="noopener noreferrer">
+    <img src="/img/pinecone.svg" alt="Pinecone logo" width="120" height="48" style="margin:0 18px;vertical-align:middle;">
+  </a>
 </p>
 
 ### Content Streams
