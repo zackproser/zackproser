@@ -29,6 +29,12 @@
 - [Publish like crazy](https://zackproser.com/publications)
 - Writing & video tutorials seen by 7000+ developers per month 
 
+### Premium Tutorials
+
+| [![RAG Pipeline Tutorial](img/rag-chatbot.avif)](https://zackproser.com/products/rag-pipeline-tutorial) | [![Vibe Coding Mastery](img/vibe-coding-premium.avif)](https://zackproser.com/products/vibe-coding-mastery) | [![Multiple Git Profiles](img/multiple-git-profiles.avif)](https://zackproser.com/products/multiple-git-profiles) |
+|:---:|:---:|:---:|
+| **[RAG Pipeline Tutorial](https://zackproser.com/products/rag-pipeline-tutorial)**<br/>Build a production-ready Retrieval Augmented Generation (RAG) pipeline with LangChain, OpenAI, and Pinecone. Includes a Jupyter notebook, Next.js example, and step-by-step guide.<br/><br/>[**View Tutorial →**](https://zackproser.com/products/rag-pipeline-tutorial) | **[Vibe Coding Mastery](https://zackproser.com/products/vibe-coding-mastery)**<br/>Master the art of coding with AI as your pair. Learn to build, debug, and ship faster using the latest GenAI tools and best practices.<br/><br/>[**View Tutorial →**](https://zackproser.com/products/vibe-coding-mastery)<br/>[Free Version](https://zackproser.com/blog/vibe-coding-guide) | **[Multiple Git Profiles](https://zackproser.com/products/multiple-git-profiles-automated)**<br/>Easily manage multiple Git identities for work, open source, and personal projects. Step-by-step guide to seamless context switching and best practices for professional developers.<br/><br/>[**View Tutorial →**](https://zackproser.com/products/multiple-git-profiles-automated) |
+
 ### Trusted By
 
 - [Cloudflare](https://www.cloudflare.com)
@@ -46,14 +52,6 @@
 | 💬 [Chat](https://zackproser.com/chat) | interactive AI chat experience |
 | 🧵 [Threads](https://www.threads.net/@zackproser) | AI dev updates & threads |
 | 🌤️ [Bluesky](https://bsky.app/profile/zackproser.bsky.social) | AI dev posts |
-
----
-
-### Premium Tutorials
-
-| [![RAG Pipeline Tutorial](img/rag-chatbot.avif)](https://zackproser.com/products/rag-pipeline-tutorial) | [![Vibe Coding Mastery](img/vibe-coding-premium.avif)](https://zackproser.com/products/vibe-coding-mastery) | [![Multiple Git Profiles](img/multiple-git-profiles.avif)](https://zackproser.com/products/multiple-git-profiles) |
-|:---:|:---:|:---:|
-| **[RAG Pipeline Tutorial](https://zackproser.com/products/rag-pipeline-tutorial)**<br/>Build a production-ready Retrieval Augmented Generation (RAG) pipeline with LangChain, OpenAI, and Pinecone. Includes a Jupyter notebook, Next.js example, and step-by-step guide.<br/><br/>[**View Tutorial →**](https://zackproser.com/products/rag-pipeline-tutorial) | **[Vibe Coding Mastery](https://zackproser.com/products/vibe-coding-mastery)**<br/>Master the art of coding with AI as your pair. Learn to build, debug, and ship faster using the latest GenAI tools and best practices.<br/><br/>[**View Tutorial →**](https://zackproser.com/products/vibe-coding-mastery)<br/>[Free Version](https://zackproser.com/blog/vibe-coding-guide) | **[Multiple Git Profiles](https://zackproser.com/products/multiple-git-profiles-automated)**<br/>Easily manage multiple Git identities for work, open source, and personal projects. Step-by-step guide to seamless context switching and best practices for professional developers.<br/><br/>[**View Tutorial →**](https://zackproser.com/products/multiple-git-profiles-automated) |
 
 ---
 
