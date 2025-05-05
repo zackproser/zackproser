@@ -1,98 +1,69 @@
-[![Subscribe to my newsletter](./img/newsletter-subscribe.png)](https://zackproser.com/subscribe?referrer=github-profile)
+<p align="center">
+  <img src="img/hero.webp" width="900" alt="Modern Coding " />
+</p>
 
-# Howdy :wave:
+<h1 align="center">AI Engineering Mastery for Developers Who Ship🚀</h1>
 
-I'm a staff developer advocate at [Pinecone](https://github.com/pinecone-io). Previously:
-[Gruntwork.io](https://gruntwork.io)
-[Cloudflare](https://cloudflare.com), [Cloudmark](https://cloudmark.com) and [BrightContext](https://www.crunchbase.com/organization/brightcontext).
+<p align="center">
+  I help professional devs build production‑grade AI features with <strong>Next.js 15, Vercel AI SDK, Pinecone & LangChain.</strong><br/>
+  <em>Grab the free 7‑day email series + starter repo below.</em>
+</p>
 
-[Join me on wren.co to support projects addressing climate change](https://www.wren.co/join/ZackProser?utm_campaign=share&utm_medium=profile_referral_link):
+<p align="center">
+  <a href="https://moderncoding.dev/#subscribe?utm_source=github&utm_medium=profile">
+    <img src="https://img.shields.io/badge/Join%201,500%2B%20Engineers%20%E2%9C%85-Start%20Here-purple?style=for-the-badge" alt="Subscribe CTA"/>
+  </a>
+  &nbsp;
+  <a href="https://moderncoding.dev/courses?utm_source=github&utm_medium=profile">
+    <img src="https://img.shields.io/badge/View%20Premium%20Tutorials-gold?style=for-the-badge" alt="Premium tutorials CTA"/>
+  </a>
+</p>
 
-[![Carbon Neutral Human](./img/carbon-wren.png)](https://www.wren.co/join/ZackProser?utm_campaign=share&utm_medium=profile_referral_link)
+---
 
-:book: [Tutorial: How I built a serverless app that auto-rotates this badge ^](https://link.medium.com/M1dB6y4Nzeb)
+### About Me
 
-## Interests
+- **Staff Developer**
+- **Dev Educator @ WorkOS** · 13 yrs shipping SaaS & infra
+- Built: Systems at Cloudflare, Infra and DevOps at Gruntwork, ML, Publications, Next.js and AWS infra at Pinecone
+- [Publish like crazy](https://zackproser.com/publications)
+- Writing & video tutorials seen by 7000+ developers per month 
 
-Golang, Javascript, Infrastructure as code, AWS and distributed systems. Drawing, painting, and reading.
+### Trusted By
 
-## Links
+<p align="left">
+  <!-- Replace logo paths with self‑hosted SVG/PNG -->
+  <img src="/img/cloudflare.svg" height="40" alt="Cloudflare"/>
+  &nbsp;&nbsp;
+  <img src="/img/gruntwork.svg" height="40" alt="Gruntwork"/>
+  &nbsp;&nbsp;
+  <img src="/img/pinecone.svg" height="40" alt="Pinecone"/>
+</p>
 
-<table>
-<thead>
-  <tr>
-    <th>:clapper: Video :movie_camera:</th>
-    <th>:notebook_with_decorative_cover: Writing :books:</th>
-    <th>:octocat: Portfolio :computer:</th>
-    <th>:camera: Art :art:</th>
-    <th>:lock: Contact :link:</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-<td>
-   <ul>
-        <li><a href="https://twitch.tv/zackproser">Twitch</a></li>
-        <li><a href="https://youtube.com/@zackproser">YouTube</a></li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><a href="https://zackproser.com/blog">Blog</a></li>
-        <li><a href="https://medium.com/@zackproser">Medium</a></li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><a href="https://zackproser.com">Portfolio</a></li>
-        <li><a href="https://codepen.io/zackproser/pen/MVvRgW">Codepen</a></li>
-      </ul>    
-    </td>
-    <td> 
-      <ul>
-        <li><a href="https://instagram.com/zackproser">Instagram</a></li>
-        <li><a href="https://art.zackproser.com">Prints</li>
-      </ul>
-   </td>
-    <td>
-     <ul> 
-       <li><a href="https://keybase.io/zackproser">Keybase</a></li>
-       <li><a href="https://linkedin.com/in/zackproser/">LinkedIn</a></li>
-      </ul>
-    </td>
-  </tr>
-</tbody>
-</table>
+### Content Streams
 
-## Certifications
+| Platform | Focus |
+|----------|-------|
+| 📝 [Blog](https://moderncoding.dev/insights) | deep dives & tutorials |
+| 🧵 [Twitter/X](https://twitter.com/zackproser) | daily AI dev threads |
+| 🔗 [LinkedIn](https://www.linkedin.com/in/zackproser/) | long‑form breakdowns & case studies |
+| 🎥 [YouTube](https://youtube.com/@zackproser) | screencast courses |
+| 💬 [Chat](https://zackproser.com/chat) | interactive AI chat experience |
+| 🧵 [Threads](https://www.threads.net/@zackproser) | AI dev updates & threads |
+| 🌤️ [Bluesky](https://bsky.app/profile/zackproser.bsky.social) | AI dev posts |
 
-<table>
-<thead>
-  <tr>
-    <th> AWS SysOps Admin Associate </th>
-    <th> AWS Developer Associate </th>
-    <th> AWS Solutions Architect Associate </th>
-    <th> Hashicorp Terraform Associate </th>
-    <th> AWS Cloud Practitioner </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-        <a href="https://www.credly.com/badges/a8867c79-5eef-4231-a939-6e4e2993ca4b/public_url"><img src="./img/aws-sysops-assoc.png"></a>
-    </td>
-    <td>
-        <a href="https://www.credly.com/badges/6b6bcd25-c114-40ec-988c-d85118a62413/public_url"><img src="./img/aws-developer-assoc.png"></a> 
-    </td>
-    <td>
-        <a href="https://www.credly.com/badges/baf2a178-fbb6-4e3b-bee3-a4e51bf1ecb4/public_url"><img src="./img/aws-solutions-architect-assoc.png"></a>
-    </td>
-    <td>
-        <a href="https://www.credly.com/badges/540ddf32-8399-4db1-88d6-f2f010b6a7ad/public_url"><img src="./img/terraform-associate.png"></a>
-    </td>
-    <td> 
-        <a href="https://www.credly.com/badges/df691558-e926-4d11-93ca-c15e1707c954/public_url"><img src="./img/aws-cloud-practitioner.png"></a>
-   </td>
-  </tr>
-</tbody>
-</table>
+---
+
+### Premium Tutorials
+
+- [RAG Pipeline Tutorial (Premium)](https://zackproser.com/products/rag-pipeline-tutorial)
+- [Vibe Coding Mastery (Premium)](https://zackproser.com/products/vibe-coding-mastery)
+- [Vibe Coding Guide (Free)](https://zackproser.com/blog/vibe-coding-guide)
+
+---
+
+### More
+
+- [Testimonials](https://zackproser.com/testimonials)
+- [Services](https://zackproser.com/services)
+- [Products](https://zackproser.com/products)
