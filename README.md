@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://zackproser.com"><img src="https://zackproser.b-cdn.net/images/workshop-zack-presenting-v2.webp" width="900" alt="Zack Proser presenting at WorkOS x Anthropic Claude Cowork Workshop" /></a>
+  <a href="https://zackproser.com"><img src="https://zackproser.b-cdn.net/images/workshop-zack-presenting-v2.webp" width="600" alt="Zack Proser presenting at WorkOS x Anthropic Claude Cowork Workshop" /></a>
 </p>
 
 <h2 align="center">Applied AI Engineer · I build production systems with Claude and ship in public</h2>
@@ -26,29 +26,18 @@
 
 ### What I'm Building Now
 
-<a href="https://zackproser.com/blog/claude-cowork-workshop-anthropic"><img src="https://zackproser.b-cdn.net/images/claude-cowork-workshop.webp" width="420" alt="Claude Cowork GTM Workshop" align="right" /></a>
+<table><tr>
+<td align="center" width="50%"><a href="https://zackproser.com/blog/claude-cowork-workshop-anthropic"><img src="https://zackproser.b-cdn.net/images/claude-cowork-workshop.webp" width="100%" alt="Claude Cowork GTM Workshop" /></a><br/><strong><a href="https://zackproser.com/blog/claude-cowork-workshop-anthropic">Claude Cowork GTM Workshop</a></strong><br/>Hands-on workshop at WorkOS SF with Anthropic. 800 registrations. (<a href="https://www.youtube.com/watch?v=8bjcx5Hkj5w">Watch it</a>)</td>
+<td align="center" width="50%"><a href="https://github.com/zackproser/handwave"><img src="https://zackproser.b-cdn.net/images/handwave-blog-hero.webp" width="100%" alt="Handwave" /></a><br/><strong><a href="https://github.com/zackproser/handwave">Handwave</a></strong><br/>watchOS app to control Claude Code from your wrist. Built with Claude Code in ~2.5 hours.</td>
+</tr></table>
 
-- **[Claude Cowork GTM Workshop](https://zackproser.com/blog/claude-cowork-workshop-anthropic)** — Created and delivered a hands-on workshop at WorkOS SF with Anthropic's Claude Code team. 800 registrations. Built a complete GTM pipeline live in one Cowork session. ([Watch it](https://www.youtube.com/watch?v=8bjcx5Hkj5w))
+<table><tr>
+<td align="center" width="50%"><a href="https://zackproser.com/blog/building-always-on-ai-assistant"><img src="https://zackproser.b-cdn.net/images/ai-assistant.webp" width="100%" alt="Always-On AI Assistant" /></a><br/><strong><a href="https://zackproser.com/blog/building-always-on-ai-assistant">Always-On AI Assistant</a></strong><br/>Cognitive infrastructure on a System76 Meerkat. Email, calendar, finances, tasks — 24/7.</td>
+<td align="center" width="50%"><a href="https://www.youtube.com/watch?v=kwIzRkzO_Z4"><img src="https://zackproser.b-cdn.net/images/devseccon-2025-keynote.webp" width="100%" alt="DevSecCon 2025 Keynote" /></a><br/><strong><a href="https://www.youtube.com/watch?v=kwIzRkzO_Z4">DevSecCon 2025 Keynote</a></strong><br/>32-minute keynote on how AI agents are reshaping the security landscape.</td>
+</tr></table>
 
-<br clear="right"/>
-
-<a href="https://github.com/zackproser/handwave"><img src="https://zackproser.b-cdn.net/images/handwave-blog-hero.webp" width="420" alt="Handwave — control Claude Code from your Apple Watch" align="right" /></a>
-
-- **[Handwave](https://github.com/zackproser/handwave)** — watchOS app to control Claude Code sessions from your wrist via Bonjour protocol. Built entirely with Claude Code in ~2.5 hours.
-
-<br clear="right"/>
-
-<a href="https://zackproser.com/blog/building-always-on-ai-assistant"><img src="https://zackproser.b-cdn.net/images/ai-assistant.webp" width="420" alt="Always-On AI Assistant on System76 Meerkat" align="right" /></a>
-
-- **[Always-On AI Assistant](https://zackproser.com/blog/building-always-on-ai-assistant)** — Cognitive infrastructure running 24/7 on a System76 Meerkat. Manages email, calendar, finances, and tasks with proactive monitoring.
-
-<br clear="right"/>
-
-<a href="https://zackproser.com/blog/walking-and-talking-with-ai"><img src="https://zackproser.b-cdn.net/images/walking-talking-ai.webp" width="420" alt="Voice-first development from the trails" align="right" /></a>
-
-- **Voice-first development** — Ship production code at 179 WPM using WisprFlow. Orchestrate multiple AI agents by voice from mountain trails. ([Read more](https://zackproser.com/blog/walking-and-talking-with-ai))
-
-<br clear="right"/>
+<p align="center"><a href="https://zackproser.com/blog/walking-and-talking-with-ai"><img src="https://zackproser.b-cdn.net/images/walking-talking-ai.webp" width="600" alt="Voice-first development from the trails" /></a></p>
+<p align="center"><strong>Voice-first development</strong> — Ship production code at 179 WPM with WisprFlow. Orchestrate AI agents by voice from mountain trails. <a href="https://zackproser.com/blog/walking-and-talking-with-ai">Read more →</a></p>
 
 ### Open Source
 
@@ -70,13 +59,11 @@
 
 ### Speaking & Workshops
 
-<p align="center">
-  <a href="https://zackproser.com/blog/claude-cowork-workshop-anthropic"><img src="https://zackproser.b-cdn.net/images/claude-cowork-martijn-lancee.webp" width="440" alt="Full crowd at the Claude Cowork GTM Workshop — WorkOS x Anthropic, Feb 2026" /></a>
-  &nbsp;&nbsp;
-  <a href="https://zackproser.com/blog/a16z-sf-dec-2023-ai-apps-production"><img src="https://zackproser.b-cdn.net/images/a16z-3.webp" width="440" alt="Presenting at a16z San Francisco, Dec 2023" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=kwIzRkzO_Z4"><img src="https://zackproser.b-cdn.net/images/devseccon-2025-keynote.webp" width="440" alt="DevSecCon 2025 Keynote — Watch on YouTube" /></a>
-</p>
+<table><tr>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/claude-cowork-workshop-anthropic"><img src="https://zackproser.b-cdn.net/images/claude-cowork-martijn-lancee.webp" width="100%" alt="Full crowd at Claude Cowork Workshop" /></a><br/><em>Cowork Workshop, Feb 2026</em></td>
+<td align="center" width="33%"><a href="https://www.youtube.com/watch?v=kwIzRkzO_Z4"><img src="https://zackproser.b-cdn.net/images/devseccon-2025-keynote.webp" width="100%" alt="DevSecCon 2025 Keynote" /></a><br/><em>DevSecCon Keynote, 2025</em></td>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/a16z-sf-dec-2023-ai-apps-production"><img src="https://zackproser.b-cdn.net/images/a16z-3.webp" width="100%" alt="Presenting at a16z SF" /></a><br/><em>a16z SF, Dec 2023</em></td>
+</tr></table>
 
 | Event | What | When |
 |-------|------|------|
