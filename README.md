@@ -60,6 +60,15 @@
 
 [→ All speaking engagements](https://zackproser.com/speaking)
 
+### Career
+
+| | |
+|---|---|
+| **WorkOS** · Applied AI (2025–present) | Building AI workflows, internal tooling, and developer education on the Applied AI team. Created and delivered the Claude Cowork workshop with Anthropic. |
+| **Pinecone** · Staff DevRel (2023–2025) | Shipped RAG pipeline tutorials, AWS reference architectures with Pulumi, and the developer education program during the vector DB explosion. Spoke at a16z SF. |
+| **Cloudflare** · Software Engineer (2020–2023) | Joined when there were ~100 engineers globally. Built [cf-terraforming](https://github.com/cloudflare/cf-terraforming) (1.3K⭐). Shipped APIs, edge infrastructure, and developer tools at massive scale. |
+| **Gruntwork** · Infrastructure Engineer (2018–2020) | Built [git-xargs](https://github.com/gruntwork-io/git-xargs) (1K⭐), contributed to [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) (3.1K⭐). Complex multi-account AWS deployments, Terraform modules, production IaC. |
+
 ### How I Work
 
 **Practical AI patterns that survive contact with reality.** I write about what actually works in production — RAG pipelines, agent orchestration, voice-native workflows, and the infrastructure that makes speed safe. Read by 35,000+ developers, 4,000+ newsletter subscribers.
