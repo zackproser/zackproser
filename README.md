@@ -77,9 +77,13 @@
 | **Cloudflare** · Software Engineer (2020–2023) | Joined when there were ~100 engineers globally. Built [cf-terraforming](https://github.com/cloudflare/cf-terraforming) (1.3K⭐). Shipped APIs, edge infrastructure, and developer tools at massive scale. |
 | **Gruntwork** · Infrastructure Engineer (2018–2020) | Built [git-xargs](https://github.com/gruntwork-io/git-xargs) (1K⭐), contributed to [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) (3.1K⭐). Complex multi-account AWS deployments, Terraform modules, production IaC. |
 
-### How I Work
+### Reach & Influence
 
-**Practical AI patterns that survive contact with reality.** I write about what actually works in production — RAG pipelines, agent orchestration, voice-native workflows, and the infrastructure that makes speed safe. 104K+ visitors/year (+82% YoY), 133K+ page views, 4,000+ newsletter subscribers.
+<a href="https://zackproser.com"><img src="https://zackproser.b-cdn.net/images/vercel-analytics-2026.webp" width="500" alt="zackproser.com — 104K visitors, +82% YoY" /></a>
+
+**104K+ visitors/year** (+82% YoY) · **133K+ page views** (+60%) · **4,000+ newsletter subscribers**
+
+My AI tooling reviews and technical deep dives are sought after by investors and operators. I regularly take **paid expert network consultations** (AlphaSights, Guidepoint, Tegus, GLG, Coleman) from hedge funds and PE firms evaluating AI infrastructure, developer tools, and cloud platforms — I can't keep up with the volume of inbound requests. These firms pay $500-1,000/hr because the analysis is trusted.
 
 The slides for the Cowork workshop were built with Claude's help and Nano Banana (Gemini's image generation API). I use the tools I talk about.
 
