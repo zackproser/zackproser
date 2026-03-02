@@ -74,6 +74,8 @@
   <a href="https://zackproser.com/blog/claude-cowork-workshop-anthropic"><img src="https://zackproser.b-cdn.net/images/claude-cowork-martijn-lancee.webp" width="440" alt="Full crowd at the Claude Cowork GTM Workshop — WorkOS x Anthropic, Feb 2026" /></a>
   &nbsp;&nbsp;
   <a href="https://zackproser.com/blog/a16z-sf-dec-2023-ai-apps-production"><img src="https://zackproser.b-cdn.net/images/a16z-3.webp" width="440" alt="Presenting at a16z San Francisco, Dec 2023" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=kwIzRkzO_Z4"><img src="https://zackproser.b-cdn.net/images/devseccon-2025-keynote.webp" width="440" alt="DevSecCon 2025 Keynote — Watch on YouTube" /></a>
 </p>
 
 | Event | What | When |
