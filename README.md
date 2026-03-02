@@ -1,62 +1,76 @@
 <p align="center">
-  <a href="https://zackproser.com"><img src="img/hero.webp" width="900" alt="Modern Coding" /></a>
+  <a href="https://zackproser.com"><img src="https://zackproser.b-cdn.net/images/claude-cowork-gtm-luma-header.webp" width="900" alt="Claude Cowork GTM Workshop — WorkOS x Anthropic" /></a>
 </p>
 
-<h1 align="center">AI Engineering Mastery for Developers Who Ship🚀</h1>
+<h2 align="center">Applied AI Engineer · I build production systems with Claude and ship in public</h2>
 
 <p align="center">
-  I help professional devs and companies build production‑grade AI features with <strong>Next.js 15, the <a href="https://zackproser.com/blog/vercel-ai-sdk">Vercel AI SDK, Infrastructure as Code and cloud platforms.</strong><br/>
-  <em>Grab the free 7‑day email series + starter repo below.</em>
+  14 years shipping production systems. Currently on the <strong>Applied AI team at WorkOS</strong>, testing and building AI workflows daily. Previously: Staff DevRel at Pinecone (RAG & vectors), Cloudflare (APIs & edge), Gruntwork (AWS & IaC).
 </p>
 
 <p align="center">
-  <a href="https://zackproser.com/">
-    <img src="https://img.shields.io/badge/Join%201,500%2B%20Engineers%20%E2%9C%85-Start%20Here-purple?style=for-the-badge" alt="Subscribe CTA"/>
+  <a href="https://zackproser.com/blog/claude-cowork-workshop-anthropic">
+    <img src="https://img.shields.io/badge/Latest-Cowork%20Workshop%20Recap-blueviolet?style=for-the-badge" alt="Workshop Recap"/>
   </a>
   &nbsp;
-  <a href="https://zackproser.com/products">
-    <img src="https://img.shields.io/badge/View%20Premium%20Tutorials-gold?style=for-the-badge" alt="Premium tutorials CTA"/>
+  <a href="https://zackproser.com/speaking">
+    <img src="https://img.shields.io/badge/Speaking-Engagements-teal?style=for-the-badge" alt="Speaking"/>
+  </a>
+  &nbsp;
+  <a href="https://zackproser.com/blog">
+    <img src="https://img.shields.io/badge/Blog-35k%2B%20readers-orange?style=for-the-badge" alt="Blog"/>
   </a>
 </p>
 
 ---
 
-### About Me
+### What I'm Building Now
 
-- **Staff Developer**
-- **Dev Educator @ WorkOS** · 13 yrs shipping SaaS & infra
-- Built: Systems at Cloudflare, Infra and DevOps at Gruntwork, ML, Publications, Next.js and AWS infra at Pinecone
-- [Publish like crazy](https://zackproser.com/publications)
-- Writing & video tutorials seen by 7000+ developers per month 
+- **[Claude Cowork GTM Workshop](https://zackproser.com/blog/claude-cowork-workshop-anthropic)** — Created and delivered a hands-on workshop at WorkOS SF with Anthropic's Claude Code team. 800 registrations. Built a complete GTM pipeline live in one Cowork session. ([Watch it](https://www.youtube.com/watch?v=8bjcx5Hkj5w))
+- **[Handwave](https://github.com/zackproser/handwave)** — watchOS app to control Claude Code sessions from your wrist via Bonjour protocol. Built entirely with Claude Code in ~2.5 hours.
+- **[Always-On AI Assistant](https://zackproser.com/blog/building-always-on-ai-assistant)** — Cognitive infrastructure running 24/7 on a System76 Meerkat. Manages email, calendar, finances, and tasks with proactive monitoring.
+- **Voice-first development** — Ship production code at 179 WPM using WisprFlow. Orchestrate multiple AI agents by voice from mountain trails. ([Read more](https://zackproser.com/blog/walking-and-talking-with-ai))
 
-### Premium Tutorials
+### Open Source
 
-| [![RAG Pipeline Tutorial](img/rag-chatbot.avif)](https://zackproser.com/products/rag-pipeline-tutorial) | [![Vibe Coding Mastery](img/vibe-coding-premium.avif)](https://zackproser.com/products/vibe-coding-mastery) | [![Multiple Git Profiles](img/multiple-git-profiles.avif)](https://zackproser.com/products/multiple-git-profiles) |
-|:---:|:---:|:---:|
-| **[RAG Pipeline Tutorial](https://zackproser.com/products/rag-pipeline-tutorial)**<br/>Build a production-ready Retrieval Augmented Generation (RAG) pipeline with LangChain, OpenAI, and Pinecone. Includes a Jupyter notebook, Next.js example, and step-by-step guide.<br/><br/>[**View Tutorial →**](https://zackproser.com/products/rag-pipeline-tutorial) | **[Vibe Coding Mastery](https://zackproser.com/products/vibe-coding-mastery)**<br/>Master the art of coding with AI as your pair. Learn to build, debug, and ship faster using the latest GenAI tools and best practices.<br/><br/>[**View Tutorial →**](https://zackproser.com/products/vibe-coding-mastery)<br/>[Free Version](https://zackproser.com/blog/vibe-coding-guide) | **[Multiple Git Profiles](https://zackproser.com/products/multiple-git-profiles-automated)**<br/>Easily manage multiple Git identities for work, open source, and personal projects. Step-by-step guide to seamless context switching and best practices for professional developers.<br/><br/>[**View Tutorial →**](https://zackproser.com/products/multiple-git-profiles-automated) |
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [git-xargs](https://github.com/gruntwork-io/git-xargs) | Run commands across many GitHub repos simultaneously | ⭐ 1,086 |
+| [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) | AWS resource cleanup tool — nuke entire accounts safely | ⭐ 3,121 |
+| [cf-terraforming](https://github.com/cloudflare/cf-terraforming) | Generate Terraform from existing Cloudflare config | ⭐ 1,324 |
+| [cowork-workshop](https://github.com/zackproser/cowork-workshop) | Hands-on Claude Cowork workshop — slides and materials | NEW |
+| [portfolio](https://github.com/zackproser/portfolio) | This site — Next.js 15, 134+ articles, interactive AI demos | — |
 
-### Trusted By
+### Recent Writing
 
-- [Cloudflare](https://www.cloudflare.com)
-- [Gruntwork](https://gruntwork.io)
-- [Pinecone](https://www.pinecone.io)
+- [Claude Cowork Workshop with Anthropic](https://zackproser.com/blog/claude-cowork-workshop-anthropic) — Full recap + video
+- [My 2026 AI Engineer Setup](https://zackproser.com/blog/2026-ai-engineer-setup) — Tools, workflows, and hardware
+- [Building an Always-On AI Assistant](https://zackproser.com/blog/building-always-on-ai-assistant) — OpenClaw on a System76 Meerkat
+- [Walking and Talking with AI](https://zackproser.com/blog/walking-and-talking-with-ai) — Untethered development from the trails
+- [Connect Oura Ring to Claude via MCP](https://zackproser.com/blog/connect-oura-ring-to-claude-desktop-with-mcp) — Biometrics as development context
 
-### Content Streams
+### Speaking & Workshops
 
-| Platform | Focus |
-|----------|-------|
-| 📝 [Blog](https://zackproser.com/blog) | deep dives & tutorials |
-| 🧵 [Twitter/X](https://twitter.com/zackproser) | daily AI dev threads |
-| 🔗 [LinkedIn](https://www.linkedin.com/in/zackproser/) | long‑form breakdowns & case studies |
-| 🎥 [YouTube](https://youtube.com/@zackproser) | screencast courses |
-| 💬 [Chat](https://zackproser.com/chat) | interactive AI chat experience |
-| 🧵 [Threads](https://www.threads.net/@zackproser) | AI dev updates & threads |
-| 🌤️ [Bluesky](https://bsky.app/profile/zackproser.bsky.social) | AI dev posts |
+| Event | What | When |
+|-------|------|------|
+| **WorkOS x Anthropic** | [Claude Cowork GTM Workshop](https://zackproser.com/blog/claude-cowork-workshop-anthropic) — 800 registrations, hands-on build | Feb 2026 |
+| **DevSecCon 2025** | [Keynote speaker](https://www.youtube.com/watch?v=kwIzRkzO_Z4) — 32-minute talk on AI + security | 2025 |
+| **AI Engineer World Fair** | [Workshop: AI Pipelines & Agents with Mastra.ai](https://zackproser.com/blog/ai-pipelines-and-agents-mastra) — taught 70 engineers | Jun 2025 |
+| **a16z San Francisco** | [From Jupyter Notebooks to Production](https://zackproser.com/blog/a16z-sf-dec-2023-ai-apps-production) — ~125 attendees | Dec 2023 |
+
+[→ All speaking engagements](https://zackproser.com/speaking)
+
+### How I Work
+
+**Practical AI patterns that survive contact with reality.** I write about what actually works in production — RAG pipelines, agent orchestration, voice-native workflows, and the infrastructure that makes speed safe. Read by 35,000+ developers, 4,000+ newsletter subscribers.
+
+The slides for the Cowork workshop were built with Claude's help and Nano Banana (Gemini's image generation API). I use the tools I talk about.
 
 ---
 
-### More
-
-- [Testimonials](https://zackproser.com/testimonials)
-- [Services](https://zackproser.com/services)
-- [Products](https://zackproser.com/products)
+<p align="center">
+  <a href="https://zackproser.com">zackproser.com</a> · 
+  <a href="https://twitter.com/zackproser">Twitter</a> · 
+  <a href="https://www.linkedin.com/in/zackproser/">LinkedIn</a> · 
+  <a href="https://youtube.com/@zackproser">YouTube</a>
+</p>
