@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://zackproser.com"><img src="https://zackproser.b-cdn.net/images/workshop-zack-presenting-v2.webp" width="900" alt="Zack Proser presenting at WorkOS x Anthropic Claude Cowork Workshop" /></a>
+  <a href="https://zackproser.com"><img src="https://zackproser.b-cdn.net/images/workshop-zack-presenting-v2.webp" width="600" alt="Zack Proser presenting at WorkOS x Anthropic Claude Cowork Workshop" /></a>
 </p>
 
 <h2 align="center">Applied AI Engineer · I build production systems with Claude and ship in public</h2>
