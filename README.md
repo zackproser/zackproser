@@ -60,6 +60,14 @@
 
 [→ All speaking engagements](https://zackproser.com/speaking)
 
+### Research & Publications
+
+- 📄 **[Identity Management for Agentic AI](https://arxiv.org/abs/2510.25819)** — Co-author on arXiv white paper on authentication, authorization, and security for AI agents. With Tobin South, Alex Pentland (MIT), and others. (Oct 2025)
+- 📝 **50+ technical articles** at WorkOS, Pinecone, Cloudflare, and Gruntwork — covering AI agents, RAG pipelines, fine-grained authorization, vector databases, and infrastructure as code
+- 🎤 **134+ articles** on [zackproser.com](https://zackproser.com/blog) + external publications on [The New Stack](https://thenewstack.io), [Prefect.io](https://prefect.io), and [Pinecone Learning Center](https://www.pinecone.io/learn/)
+
+[→ Full publications list](https://zackproser.com/publications)
+
 ### Career
 
 | | |
