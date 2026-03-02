@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://zackproser.com"><img src="https://zackproser.b-cdn.net/images/claude-cowork-gtm-luma-header.webp" width="900" alt="Claude Cowork GTM Workshop — WorkOS x Anthropic" /></a>
+  <a href="https://zackproser.com"><img src="https://zackproser.b-cdn.net/images/workshop-zack-presenting-v2.webp" width="900" alt="Zack Proser presenting at WorkOS x Anthropic Claude Cowork Workshop" /></a>
 </p>
 
 <h2 align="center">Applied AI Engineer · I build production systems with Claude and ship in public</h2>
@@ -26,10 +26,29 @@
 
 ### What I'm Building Now
 
+<a href="https://zackproser.com/blog/claude-cowork-workshop-anthropic"><img src="https://zackproser.b-cdn.net/images/claude-cowork-workshop.webp" width="420" alt="Claude Cowork GTM Workshop" align="right" /></a>
+
 - **[Claude Cowork GTM Workshop](https://zackproser.com/blog/claude-cowork-workshop-anthropic)** — Created and delivered a hands-on workshop at WorkOS SF with Anthropic's Claude Code team. 800 registrations. Built a complete GTM pipeline live in one Cowork session. ([Watch it](https://www.youtube.com/watch?v=8bjcx5Hkj5w))
+
+<br clear="right"/>
+
+<a href="https://github.com/zackproser/handwave"><img src="https://zackproser.b-cdn.net/images/handwave-blog-hero.webp" width="420" alt="Handwave — control Claude Code from your Apple Watch" align="right" /></a>
+
 - **[Handwave](https://github.com/zackproser/handwave)** — watchOS app to control Claude Code sessions from your wrist via Bonjour protocol. Built entirely with Claude Code in ~2.5 hours.
+
+<br clear="right"/>
+
+<a href="https://zackproser.com/blog/building-always-on-ai-assistant"><img src="https://zackproser.b-cdn.net/images/ai-assistant.webp" width="420" alt="Always-On AI Assistant on System76 Meerkat" align="right" /></a>
+
 - **[Always-On AI Assistant](https://zackproser.com/blog/building-always-on-ai-assistant)** — Cognitive infrastructure running 24/7 on a System76 Meerkat. Manages email, calendar, finances, and tasks with proactive monitoring.
+
+<br clear="right"/>
+
+<a href="https://zackproser.com/blog/walking-and-talking-with-ai"><img src="https://zackproser.b-cdn.net/images/walking-talking-ai.webp" width="420" alt="Voice-first development from the trails" align="right" /></a>
+
 - **Voice-first development** — Ship production code at 179 WPM using WisprFlow. Orchestrate multiple AI agents by voice from mountain trails. ([Read more](https://zackproser.com/blog/walking-and-talking-with-ai))
+
+<br clear="right"/>
 
 ### Open Source
 
@@ -83,7 +102,7 @@
 
 **104K+ visitors/year** (+82% YoY) · **133K+ page views** (+60%) · **4,000+ newsletter subscribers**
 
-My AI tooling reviews and technical deep dives are sought after by investors and operators. I regularly take **paid expert network consultations** (AlphaSights, Guidepoint, Tegus, GLG, Coleman) from hedge funds and PE firms evaluating AI infrastructure, developer tools, and cloud platforms — I can't keep up with the volume of inbound requests. These firms pay $500-1,000/hr because the analysis is trusted.
+My AI tooling reviews and technical deep dives are sought after by investors and operators. I'm a **highly sought-after expert** on leading consultation networks (AlphaSights, Guidepoint, Tegus, GLG, Coleman), regularly advising hedge funds and PE firms evaluating AI infrastructure, developer tools, and cloud platforms.
 
 The slides for the Cowork workshop were built with Claude's help and Nano Banana (Gemini's image generation API). I use the tools I talk about.
 
