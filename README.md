@@ -18,7 +18,7 @@
   </a>
   &nbsp;
   <a href="https://zackproser.com/blog">
-    <img src="https://img.shields.io/badge/Blog-35k%2B%20readers-orange?style=for-the-badge" alt="Blog"/>
+    <img src="https://img.shields.io/badge/Blog-104k%2B%20visitors%2Fyr-orange?style=for-the-badge" alt="Blog"/>
   </a>
 </p>
 
@@ -71,7 +71,7 @@
 
 ### How I Work
 
-**Practical AI patterns that survive contact with reality.** I write about what actually works in production — RAG pipelines, agent orchestration, voice-native workflows, and the infrastructure that makes speed safe. Read by 35,000+ developers, 4,000+ newsletter subscribers.
+**Practical AI patterns that survive contact with reality.** I write about what actually works in production — RAG pipelines, agent orchestration, voice-native workflows, and the infrastructure that makes speed safe. 104K+ visitors/year (+82% YoY), 133K+ page views, 4,000+ newsletter subscribers.
 
 The slides for the Cowork workshop were built with Claude's help and Nano Banana (Gemini's image generation API). I use the tools I talk about.
 
