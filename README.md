@@ -33,7 +33,6 @@
 
 <table><tr>
 <td align="center" width="50%"><a href="https://zackproser.com/blog/building-always-on-ai-assistant"><img src="https://zackproser.b-cdn.net/images/ai-assistant.webp" width="100%" alt="Always-On AI Assistant" /></a><br/><strong><a href="https://zackproser.com/blog/building-always-on-ai-assistant">Always-On AI Assistant</a></strong><br/>Cognitive infrastructure on a System76 Meerkat. Email, calendar, finances, tasks — 24/7.</td>
-<td align="center" width="50%"><a href="https://www.youtube.com/watch?v=kwIzRkzO_Z4"><img src="https://zackproser.b-cdn.net/images/devseccon-2025-keynote.webp" width="100%" alt="DevSecCon 2025 Keynote" /></a><br/><strong><a href="https://www.youtube.com/watch?v=kwIzRkzO_Z4">DevSecCon 2025 Keynote</a></strong><br/>32-minute keynote on how AI agents are reshaping the security landscape.</td>
 </tr></table>
 
 <p align="center"><a href="https://zackproser.com/blog/walking-and-talking-with-ai"><img src="https://zackproser.b-cdn.net/images/walking-talking-ai.webp" width="600" alt="Voice-first development from the trails" /></a></p>
