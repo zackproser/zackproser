@@ -60,20 +60,28 @@ I run controlled experiments on local LLM inference, build eval harnesses with p
 
 17 technical drawings covering the full AI stack — each with SVG schematics, equations, academic citations, and interactive demos:
 
-| Drawing | Topic |
-|---------|-------|
-| [The Transformer](https://zackproser.com/blog/the-transformer) | Attention, KV cache, positional encoding, feed-forward layers |
-| [The Tokenizer](https://zackproser.com/blog/the-tokenizer) | BPE vocabulary training, merge tables, Unicode, cost implications |
-| [The Embedding Space](https://zackproser.com/blog/the-embedding-space) | Vector geometry, word2vec → Sentence-BERT → SimCSE, HNSW ANN |
-| [The RAG Pipeline](https://zackproser.com/blog/the-rag-pipeline) | Chunk → embed → retrieve → rerank → generate, ColBERT, Lost in Middle |
-| [The Diffusion Model](https://zackproser.com/blog/the-diffusion-model) | DDPM → flow matching, noise schedules, CFG, DiT architecture |
-| [Choosing an LLM](https://zackproser.com/blog/choosing-an-llm) | Dense vs MoE, quantization formats, Chinchilla scaling, distillation |
-| [The Agent Fleet](https://zackproser.com/blog/the-agent-fleet) | 11-bot architecture, Slack orchestration, mechanic-agent pattern |
-| [The Attention Head](https://zackproser.com/blog/the-attention-head) | Mechanistic interpretability, induction heads, superposition, causal intervention |
-| [The Autonomy Boundary](https://zackproser.com/blog/the-autonomy-boundary) | Agent limits, permission systems, human-in-the-loop, OWASP LLM Top 10 |
-| [The Guard](https://zackproser.com/blog/the-guard) | Prompt injection as trust-boundary, defense architecture for tool-using agents |
-| [Designing AI Evaluations](https://zackproser.com/blog/designing-ai-evaluations) | Eval framework: contracts, sampling, graders, slices, thresholds, regression |
-| [The Workshop](https://zackproser.com/blog/the-workshop) | AI training as RFP funnel, hands-on pedagogy |
+<table>
+<tr>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-transformer"><img src="https://zackproser.b-cdn.net/images/og-images/the-transformer.png" width="100%" alt="The Transformer" /></a><br/><strong><a href="https://zackproser.com/blog/the-transformer">The Transformer</a></strong></td>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-tokenizer"><img src="https://zackproser.b-cdn.net/images/og-images/the-tokenizer.png" width="100%" alt="The Tokenizer" /></a><br/><strong><a href="https://zackproser.com/blog/the-tokenizer">The Tokenizer</a></strong></td>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-embedding-space"><img src="https://zackproser.b-cdn.net/images/og-images/the-embedding-space.png" width="100%" alt="The Embedding Space" /></a><br/><strong><a href="https://zackproser.com/blog/the-embedding-space">The Embedding Space</a></strong></td>
+</tr>
+<tr>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-rag-pipeline"><img src="https://zackproser.b-cdn.net/images/og-images/the-rag-pipeline.png" width="100%" alt="The RAG Pipeline" /></a><br/><strong><a href="https://zackproser.com/blog/the-rag-pipeline">The RAG Pipeline</a></strong></td>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-diffusion-model"><img src="https://zackproser.b-cdn.net/images/og-images/the-diffusion-model.png" width="100%" alt="The Diffusion Model" /></a><br/><strong><a href="https://zackproser.com/blog/the-diffusion-model">The Diffusion Model</a></strong></td>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/choosing-an-llm"><img src="https://zackproser.b-cdn.net/images/og-images/choosing-an-llm.png" width="100%" alt="Choosing an LLM" /></a><br/><strong><a href="https://zackproser.com/blog/choosing-an-llm">Choosing an LLM</a></strong></td>
+</tr>
+<tr>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-agent-fleet"><img src="https://zackproser.b-cdn.net/images/og-images/the-agent-fleet.png" width="100%" alt="The Agent Fleet" /></a><br/><strong><a href="https://zackproser.com/blog/the-agent-fleet">The Agent Fleet</a></strong></td>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-attention-head"><img src="https://zackproser.b-cdn.net/images/og-images/the-attention-head.png" width="100%" alt="The Attention Head" /></a><br/><strong><a href="https://zackproser.com/blog/the-attention-head">The Attention Head</a></strong></td>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-autonomy-boundary"><img src="https://zackproser.b-cdn.net/images/og-images/the-autonomy-boundary.png" width="100%" alt="The Autonomy Boundary" /></a><br/><strong><a href="https://zackproser.com/blog/the-autonomy-boundary">The Autonomy Boundary</a></strong></td>
+</tr>
+<tr>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-guard"><img src="https://zackproser.b-cdn.net/images/og-images/the-guard.png" width="100%" alt="The Guard" /></a><br/><strong><a href="https://zackproser.com/blog/the-guard">The Guard</a></strong></td>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/designing-ai-evaluations"><img src="https://zackproser.b-cdn.net/images/og-images/designing-ai-evaluations.png" width="100%" alt="Designing AI Evaluations" /></a><br/><strong><a href="https://zackproser.com/blog/designing-ai-evaluations">Designing AI Evaluations</a></strong></td>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-workshop"><img src="https://zackproser.b-cdn.net/images/og-images/the-workshop.png" width="100%" alt="The Workshop" /></a><br/><strong><a href="https://zackproser.com/blog/the-workshop">The Workshop</a></strong></td>
+</tr>
+</table>
 
 [→ View all 17 Blueprints](https://zackproser.com/blog?tag=blueprint)
 
@@ -124,12 +132,38 @@ Live tools you can use right now — built into my portfolio site:
 
 ## Speaking
 
-| Event | What | When |
-|-------|------|------|
-| **DevSecCon 2025** | [Keynote: "Walking and Talking in the Woods with AI"](https://www.youtube.com/watch?v=kwIzRkzO_Z4) — Voice-first development, agent autonomy | 2025 |
-| **WorkOS x Anthropic** | [Claude Cowork GTM Workshop](https://zackproser.com/blog/claude-cowork-workshop-anthropic) — 800 registrations, hands-on build | Feb 2026 |
-| **AI Engineer World Fair** | [Workshop: AI Pipelines & Agents](https://zackproser.com/blog/ai-pipelines-and-agents-mastra) — Taught 70 engineers | Jun 2025 |
-| **a16z San Francisco** | [From Jupyter Notebooks to Production](https://zackproser.com/blog/a16z-sf-dec-2023-ai-apps-production) — ~125 attendees | Dec 2023 |
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://www.youtube.com/watch?v=kwIzRkzO_Z4"><img src="https://img.youtube.com/vi/kwIzRkzO_Z4/maxresdefault.jpg" width="100%" alt="DevSecCon 2025 Keynote" /></a><br/>
+<strong>DevSecCon 2025</strong><br/><em>Keynote: Walking and Talking in the Woods with AI</em><br/>Voice-first development · Agent autonomy
+</td>
+<td align="center" width="50%">
+<a href="https://www.youtube.com/watch?v=8bjcx5Hkj5w"><img src="https://img.youtube.com/vi/8bjcx5Hkj5w/maxresdefault.jpg" width="100%" alt="Claude Cowork Workshop" /></a><br/>
+<strong>WorkOS × Anthropic</strong><br/><em>Claude Cowork GTM Workshop</em><br/>800 registrations · Hands-on build with Lydia from Anthropic
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://zackproser.com/blog/aie-london-skills-at-scale"><img src="https://img.youtube.com/vi/pFsfax19yOM/maxresdefault.jpg" width="100%" alt="Skills at Scale Workshop" /></a><br/>
+<strong>AI Engineering London</strong><br/><em>Skills at Scale Workshop (80 min)</em><br/>Claude Code skills across workflows & teams
+</td>
+<td align="center" width="50%">
+<a href="https://www.youtube.com/watch?v=so9l_MwS2yg"><img src="https://img.youtube.com/vi/so9l_MwS2yg/maxresdefault.jpg" width="100%" alt="Untethered Productivity Talk" /></a><br/>
+<strong>AI Engineering London</strong><br/><em>Untethered Productivity</em><br/>Staying healthy, creative & shipping in the AI era
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://www.youtube.com/watch?v=V2PuEAeNXUU&t=3765s"><img src="https://img.youtube.com/vi/V2PuEAeNXUU/maxresdefault.jpg" width="100%" alt="Applied AI Showcase" /></a><br/>
+<strong>WorkOS Applied AI Showcase</strong><br/><em>Three Learnings from Shipping</em><br/>Interface beats stack · Complete the loop
+</td>
+<td align="center" width="50%">
+<a href="https://www.youtube.com/watch?v=GIwt3P_5b9g"><img src="https://img.youtube.com/vi/GIwt3P_5b9g/maxresdefault.jpg" width="100%" alt="a16z Pinecone Talk" /></a><br/>
+<strong>a16z San Francisco</strong><br/><em>From Jupyter Notebooks to Production</em><br/>Pinecone AWS Reference Architecture · ~125 attendees
+</td>
+</tr>
+</table>
 
 [→ All speaking engagements](https://zackproser.com/speaking)
 
