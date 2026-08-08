@@ -93,13 +93,28 @@ Live tools you can use right now — built into my portfolio site:
 
 <table>
 <tr>
-<td align="center" width="33%"><a href="https://zackproser.com/demos/local-vs-cloud-ai-coding"><strong>Local vs Cloud Benchmark</strong></a><br/><em>60-run evidence explorer</em></td>
-<td align="center" width="33%"><a href="https://zackproser.com/demos/tokenize"><strong>Tokenization Lab</strong></a><br/><em>BPE pricing calculator</em></td>
-<td align="center" width="33%"><a href="https://zackproser.com/demos/rag-visualized"><strong>RAG Visualized</strong></a><br/><em>Pipeline step-through</em></td>
+<td align="center" width="33%">
+<a href="https://zackproser.com/demos/local-vs-cloud-ai-coding"><img src="https://zackproser.b-cdn.net/images/blueprint-the-eval-harness-hero.webp" width="100%" alt="Local vs Cloud Benchmark" /></a><br/>
+<strong><a href="https://zackproser.com/demos/local-vs-cloud-ai-coding">Local vs Cloud Benchmark</a></strong><br/><em>60-run evidence explorer</em>
+</td>
+<td align="center" width="33%">
+<a href="https://zackproser.com/demos/tokenize"><img src="https://zackproser.b-cdn.net/images/tokenization-demo-hero.webp" width="100%" alt="Tokenization Lab" /></a><br/>
+<strong><a href="https://zackproser.com/demos/tokenize">Tokenization Lab</a></strong><br/><em>BPE pricing calculator</em>
+</td>
+<td align="center" width="33%">
+<a href="https://zackproser.com/demos/rag-visualized"><img src="https://zackproser.b-cdn.net/images/rag-demo-hero.webp" width="100%" alt="RAG Visualized" /></a><br/>
+<strong><a href="https://zackproser.com/demos/rag-visualized">RAG Visualized</a></strong><br/><em>Pipeline step-through</em>
+</td>
 </tr>
 <tr>
-<td align="center" width="33%"><a href="https://zackproser.com/demos/embeddings"><strong>Embeddings Explorer</strong></a><br/><em>3D vector space</em></td>
-<td align="center" width="33%"><a href="https://zackproser.com/demos/voice-ai"><strong>Voice AI Pipeline</strong></a><br/><em>Meeting intelligence</em></td>
+<td align="center" width="33%">
+<a href="https://zackproser.com/demos/embeddings"><img src="https://zackproser.b-cdn.net/images/embeddings-demo-hero.webp" width="100%" alt="Embeddings Explorer" /></a><br/>
+<strong><a href="https://zackproser.com/demos/embeddings">Embeddings Explorer</a></strong><br/><em>3D vector space</em>
+</td>
+<td align="center" width="33%">
+<a href="https://zackproser.com/demos/voice-ai"><img src="https://zackproser.b-cdn.net/images/voice-ai-hero.webp" width="100%" alt="Voice AI Pipeline" /></a><br/>
+<strong><a href="https://zackproser.com/demos/voice-ai">Voice AI Pipeline</a></strong><br/><em>Meeting intelligence</em>
+</td>
 <td align="center" width="33%"></td>
 </tr>
 </table>
@@ -182,7 +197,7 @@ Live tools you can use right now — built into my portfolio site:
 
 ## Reach
 
-**104K+ visitors/year** (+82% YoY) · **133K+ page views** (+60%) · **4,000+ newsletter subscribers**
+**12.4M impressions/year** (Google Search Console) · **104K+ visitors/year** (+82% YoY) · **133K+ page views** (+60%) · **5,000+ newsletter subscribers**
 
 Regularly advising hedge funds and PE firms on AI infrastructure, developer tools, and cloud platforms via AlphaSights, Guidepoint, Tegus, GLG, Coleman.
 
