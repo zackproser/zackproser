@@ -135,7 +135,7 @@ Live tools you can use right now — built into my portfolio site:
 <table>
 <tr>
 <td align="center" width="50%">
-<a href="https://www.youtube.com/watch?v=kwIzRkzO_Z4"><img src="https://img.youtube.com/vi/kwIzRkzO_Z4/maxresdefault.jpg" width="100%" alt="DevSecCon 2025 Keynote" /></a><br/>
+<a href="https://www.youtube.com/watch?v=kwIzRkzO_Z4"><img src="https://img.youtube.com/vi/kwIzRkzO_Z4/hqdefault.jpg" width="100%" alt="DevSecCon 2025 Keynote" /></a><br/>
 <strong>DevSecCon 2025</strong><br/><em>Keynote: Walking and Talking in the Woods with AI</em><br/>Voice-first development · Agent autonomy
 </td>
 <td align="center" width="50%">
