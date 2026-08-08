@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/zack-proser-headshot.jpg" width="280" style="border-radius: 50%;" alt="Zack Proser" />
+  <img src="img/zack-proser-headshot-round.png" width="280" alt="Zack Proser" />
 </p>
 
 <h1 align="center">Zack Proser</h1>
@@ -14,6 +14,7 @@
   <a href="https://zackproser.com/blog?tag=blueprint"><img src="https://img.shields.io/badge/Blueprints-17%20technical%20drawings-1a1a1a?style=flat-square" alt="Blueprints"/></a>
   <a href="https://zackproser.com/blog/the-eval-harness"><img src="https://img.shields.io/badge/Benchmarks-60%2B%20controlled%20runs-2d37aa?style=flat-square" alt="Benchmarks"/></a>
   <a href="https://github.com/zackproser/portfolio"><img src="https://img.shields.io/badge/Demos-9%20live%20interactive-7c3aed?style=flat-square" alt="Demos"/></a>
+  <a href="https://zackproser.com/newsletter"><img src="https://img.shields.io/badge/Newsletter-6%2C000%2B%20subscribers-0a7c3f?style=flat-square" alt="Newsletter"/></a>
   <a href="https://mindonfire.net"><img src="img/mind-on-fire-logo.png" width="18" alt="Mind on Fire"/> Mind on Fire AI Consultancy</a>
 </p>
 
@@ -115,7 +116,9 @@ Live tools you can use right now — built into my portfolio site:
 <a href="https://zackproser.com/demos/voice-ai"><img src="https://zackproser.b-cdn.net/images/voice-ai-hero.webp" width="100%" alt="Voice AI Pipeline" /></a><br/>
 <strong><a href="https://zackproser.com/demos/voice-ai">Voice AI Pipeline</a></strong><br/><em>Meeting intelligence</em>
 </td>
-<td align="center" width="33%"></td>
+<td align="center" width="33%">
+<br/><br/><h3><a href="https://zackproser.com/demos">→ All 9 demos</a></h3><em>Firecrawl, vertical voice AI,<br/>knowledge bases & more</em>
+</td>
 </tr>
 </table>
 
@@ -197,7 +200,15 @@ Live tools you can use right now — built into my portfolio site:
 
 ## Reach
 
-**12.4M impressions/year** (Google Search Console) · **104K+ visitors/year** (+82% YoY) · **133K+ page views** (+60%) · **5,000+ newsletter subscribers**
+<table align="center">
+<tr>
+<td align="center" width="20%"><h3>12.4M</h3><sub>Search impressions / yr<br/>Google Search Console</sub></td>
+<td align="center" width="20%"><h3>52.5K</h3><sub>Search clicks / yr<br/>avg. position 7.9</sub></td>
+<td align="center" width="20%"><h3>137K</h3><sub>Visitors / yr<br/>+21% YoY</sub></td>
+<td align="center" width="20%"><h3>179K</h3><sub>Page views / yr<br/>+18% YoY</sub></td>
+<td align="center" width="20%"><h3>6,000+</h3><sub>Newsletter<br/>subscribers</sub></td>
+</tr>
+</table>
 
 Regularly advising hedge funds and PE firms on AI infrastructure, developer tools, and cloud platforms via AlphaSights, Guidepoint, Tegus, GLG, Coleman.
 
