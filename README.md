@@ -1,111 +1,223 @@
 <p align="center">
-  <a href="https://zackproser.com"><img src="https://zackproser.b-cdn.net/images/workshop-zack-presenting-v2.webp" width="600" alt="Zack Proser presenting at WorkOS x Anthropic Claude Cowork Workshop" /></a>
+  <img src="img/zack-proser-headshot-round.png" width="280" alt="Zack Proser" />
 </p>
 
-<h2 align="center">Applied AI Engineer · I build production systems with Claude and ship in public</h2>
+<h1 align="center">Zack Proser</h1>
 
 <p align="center">
-  14 years shipping production systems. Currently on the <strong>Applied AI team at WorkOS</strong>, testing and building AI workflows daily. Previously: Staff DevRel at Pinecone (RAG & vectors), Cloudflare (APIs & edge), Gruntwork (AWS & IaC).
+  <strong>Independent AI Researcher</strong> · Engineer · Consultant<br/>
+  <em>Local inference economics · Eval methodology · Systems from silicon to prompt</em>
 </p>
 
 <p align="center">
-  <a href="https://zackproser.com/blog/claude-cowork-workshop-anthropic">
-    <img src="https://img.shields.io/badge/Latest-Cowork%20Workshop%20Recap-blueviolet?style=for-the-badge" alt="Workshop Recap"/>
-  </a>
-  &nbsp;
-  <a href="https://zackproser.com/speaking">
-    <img src="https://img.shields.io/badge/Speaking-Engagements-teal?style=for-the-badge" alt="Speaking"/>
-  </a>
-  &nbsp;
-  <a href="https://zackproser.com/blog">
-    <img src="https://img.shields.io/badge/Blog-104k%2B%20visitors%2Fyr-orange?style=for-the-badge" alt="Blog"/>
-  </a>
+  <a href="https://arxiv.org/abs/2510.25819"><img src="https://img.shields.io/badge/arXiv-Identity%20Mgmt%20for%20Agentic%20AI-B31B1B?style=flat-square" alt="arXiv"/></a>
+  <a href="https://zackproser.com/blog?tag=blueprint"><img src="https://img.shields.io/badge/Blueprints-17%20technical%20drawings-1a1a1a?style=flat-square" alt="Blueprints"/></a>
+  <a href="https://zackproser.com/blog/the-eval-harness"><img src="https://img.shields.io/badge/Benchmarks-60%2B%20controlled%20runs-2d37aa?style=flat-square" alt="Benchmarks"/></a>
+  <a href="https://github.com/zackproser/portfolio"><img src="https://img.shields.io/badge/Demos-9%20live%20interactive-7c3aed?style=flat-square" alt="Demos"/></a>
+  <a href="https://zackproser.com/newsletter"><img src="https://img.shields.io/badge/Newsletter-6%2C000%2B%20subscribers-0a7c3f?style=flat-square" alt="Newsletter"/></a>
+  <a href="https://mindonfire.net"><img src="img/mind-on-fire-logo.png" width="18" alt="Mind on Fire"/> Mind on Fire AI Consultancy</a>
 </p>
 
 ---
 
-### What I'm Building Now
+## Research
 
-<table><tr>
-<td align="center" width="50%"><a href="https://zackproser.com/blog/claude-cowork-workshop-anthropic"><img src="https://zackproser.b-cdn.net/images/claude-cowork-workshop.webp" width="100%" alt="Claude Cowork GTM Workshop" /></a><br/><strong><a href="https://zackproser.com/blog/claude-cowork-workshop-anthropic">Claude Cowork GTM Workshop</a></strong><br/>Hands-on workshop at WorkOS SF with Anthropic. 800 registrations. (<a href="https://www.youtube.com/watch?v=8bjcx5Hkj5w">Watch it</a>)</td>
-<td align="center" width="50%"><a href="https://github.com/zackproser/handwave"><img src="https://zackproser.b-cdn.net/images/handwave-blog-hero.webp" width="100%" alt="Handwave" /></a><br/><strong><a href="https://github.com/zackproser/handwave">Handwave</a></strong><br/>watchOS app to control Claude Code from your wrist. Built with Claude Code in ~2.5 hours.</td>
-</tr></table>
+I run controlled experiments on local LLM inference, build eval harnesses with proper statistics, and publish everything as interactive technical drawings.
 
-<table><tr>
-<td align="center" width="50%"><a href="https://zackproser.com/blog/building-always-on-ai-assistant"><img src="https://zackproser.b-cdn.net/images/ai-assistant.webp" width="100%" alt="Always-On AI Assistant" /></a><br/><strong><a href="https://zackproser.com/blog/building-always-on-ai-assistant">Always-On AI Assistant</a></strong><br/>Cognitive infrastructure on a System76 Meerkat. Email, calendar, finances, tasks — 24/7.</td>
-<td align="center" width="50%"><a href="https://www.youtube.com/watch?v=kwIzRkzO_Z4"><img src="https://zackproser.b-cdn.net/images/devseccon-2025-keynote.webp" width="100%" alt="DevSecCon 2025 Keynote" /></a><br/><strong><a href="https://www.youtube.com/watch?v=kwIzRkzO_Z4">DevSecCon 2025 Keynote</a></strong><br/>32-minute keynote on how AI agents are reshaping the security landscape.</td>
-</tr></table>
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://zackproser.com/blog/the-price-floor"><img src="https://zackproser.b-cdn.net/images/og-images/the-price-floor.png" width="100%" alt="The Price Floor" /></a><br/>
+<strong><a href="https://zackproser.com/blog/the-price-floor">The Price Floor</a></strong><br/><em>Local inference break-even analysis</em><br/>M5 Max memory-bandwidth ceilings · Engine tax (llama.cpp vs ds4 = 5×) · ~$34K Blackwell build-or-buy
+</td>
+<td align="center" width="50%">
+<a href="https://zackproser.com/blog/the-eval-harness"><img src="https://zackproser.b-cdn.net/images/og-images/the-eval-harness.png" width="100%" alt="The Eval Harness" /></a><br/>
+<strong><a href="https://zackproser.com/blog/the-eval-harness">The Eval Harness</a></strong><br/><em>Coding agent benchmark (60 runs)</em><br/>Local vs cloud vs frontier · Hidden-test design · Wilson interval statistics
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://zackproser.com/blog/the-cost-curve"><img src="https://zackproser.b-cdn.net/images/og-images/the-cost-curve.png" width="100%" alt="The Cost Curve" /></a><br/>
+<strong><a href="https://zackproser.com/blog/the-cost-curve">The Cost Curve</a></strong><br/><em>DeepSeek V4 Flash economics</em><br/>MoE routing (284B/13B active) · Quantization ladder · Cache-hit dominance (96.6%)
+</td>
+<td align="center" width="50%">
+<a href="https://zackproser.com/blog/the-inference-engine"><img src="https://zackproser.b-cdn.net/images/og-images/the-inference-engine.png" width="100%" alt="The Inference Engine" /></a><br/>
+<strong><a href="https://zackproser.com/blog/the-inference-engine">The Inference Engine</a></strong><br/><em>Serving architecture deep-dive</em><br/>Prefill/decode · KV cache & PagedAttention · SARATHI · DistServe
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://zackproser.com/blog/the-benchmark"><img src="https://zackproser.b-cdn.net/images/og-images/the-benchmark.png" width="100%" alt="The Benchmark" /></a><br/>
+<strong><a href="https://zackproser.com/blog/the-benchmark">The Benchmark</a></strong><br/><em>Measurement methodology</em><br/>MMLU · SWE-bench · Chatbot Arena · Goodhart's law in eval
+</td>
+<td align="center" width="50%">
+<a href="https://zackproser.com/blog/practical-local-inference-aug-2026"><img src="https://zackproser.b-cdn.net/images/og-images/practical-local-inference-aug-2026.png" width="100%" alt="Practical Local Inference" /></a><br/>
+<strong><a href="https://zackproser.com/blog/practical-local-inference-aug-2026">Practical Local Inference</a></strong><br/><em>M5 Max + DeepSeek V4 Flash at 30-40 tok/s</em><br/>Workload routing matrix · $17/mo via Gateway
+</td>
+</tr>
+</table>
 
-<p align="center"><a href="https://zackproser.com/blog/walking-and-talking-with-ai"><img src="https://zackproser.b-cdn.net/images/walking-talking-ai.webp" width="600" alt="Voice-first development from the trails" /></a></p>
-<p align="center"><strong>Voice-first development</strong> — Ship production code at 179 WPM with WisprFlow. Orchestrate AI agents by voice from mountain trails. <a href="https://zackproser.com/blog/walking-and-talking-with-ai">Read more →</a></p>
+### The Blueprint Series
 
-### Open Source
+17 technical drawings covering the full AI stack — each with SVG schematics, equations, academic citations, and interactive demos:
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [git-xargs](https://github.com/gruntwork-io/git-xargs) | Run commands across many GitHub repos simultaneously | ⭐ 1,086 |
-| [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) | AWS resource cleanup tool — nuke entire accounts safely | ⭐ 3,121 |
-| [cf-terraforming](https://github.com/cloudflare/cf-terraforming) | Generate Terraform from existing Cloudflare config | ⭐ 1,324 |
-| [cowork-workshop](https://github.com/zackproser/cowork-workshop) | Hands-on Claude Cowork workshop — slides and materials | NEW |
-| [portfolio](https://github.com/zackproser/portfolio) | This site — Next.js 15, 134+ articles, interactive AI demos | — |
+<table>
+<tr>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-transformer"><img src="https://zackproser.b-cdn.net/images/og-images/the-transformer.png" width="100%" alt="The Transformer" /></a><br/><strong><a href="https://zackproser.com/blog/the-transformer">The Transformer</a></strong></td>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-tokenizer"><img src="https://zackproser.b-cdn.net/images/og-images/the-tokenizer.png" width="100%" alt="The Tokenizer" /></a><br/><strong><a href="https://zackproser.com/blog/the-tokenizer">The Tokenizer</a></strong></td>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-embedding-space"><img src="https://zackproser.b-cdn.net/images/og-images/the-embedding-space.png" width="100%" alt="The Embedding Space" /></a><br/><strong><a href="https://zackproser.com/blog/the-embedding-space">The Embedding Space</a></strong></td>
+</tr>
+<tr>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-rag-pipeline"><img src="https://zackproser.b-cdn.net/images/og-images/the-rag-pipeline.png" width="100%" alt="The RAG Pipeline" /></a><br/><strong><a href="https://zackproser.com/blog/the-rag-pipeline">The RAG Pipeline</a></strong></td>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-diffusion-model"><img src="https://zackproser.b-cdn.net/images/og-images/the-diffusion-model.png" width="100%" alt="The Diffusion Model" /></a><br/><strong><a href="https://zackproser.com/blog/the-diffusion-model">The Diffusion Model</a></strong></td>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/choosing-an-llm"><img src="https://zackproser.b-cdn.net/images/og-images/choosing-an-llm.png" width="100%" alt="Choosing an LLM" /></a><br/><strong><a href="https://zackproser.com/blog/choosing-an-llm">Choosing an LLM</a></strong></td>
+</tr>
+<tr>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-agent-fleet"><img src="https://zackproser.b-cdn.net/images/og-images/the-agent-fleet.png" width="100%" alt="The Agent Fleet" /></a><br/><strong><a href="https://zackproser.com/blog/the-agent-fleet">The Agent Fleet</a></strong></td>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-attention-head"><img src="https://zackproser.b-cdn.net/images/og-images/the-attention-head.png" width="100%" alt="The Attention Head" /></a><br/><strong><a href="https://zackproser.com/blog/the-attention-head">The Attention Head</a></strong></td>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-autonomy-boundary"><img src="https://zackproser.b-cdn.net/images/og-images/the-autonomy-boundary.png" width="100%" alt="The Autonomy Boundary" /></a><br/><strong><a href="https://zackproser.com/blog/the-autonomy-boundary">The Autonomy Boundary</a></strong></td>
+</tr>
+<tr>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-guard"><img src="https://zackproser.b-cdn.net/images/og-images/the-guard.png" width="100%" alt="The Guard" /></a><br/><strong><a href="https://zackproser.com/blog/the-guard">The Guard</a></strong></td>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/designing-ai-evaluations"><img src="https://zackproser.b-cdn.net/images/og-images/designing-ai-evaluations.png" width="100%" alt="Designing AI Evaluations" /></a><br/><strong><a href="https://zackproser.com/blog/designing-ai-evaluations">Designing AI Evaluations</a></strong></td>
+<td align="center" width="33%"><a href="https://zackproser.com/blog/the-workshop"><img src="https://zackproser.b-cdn.net/images/og-images/the-workshop.png" width="100%" alt="The Workshop" /></a><br/><strong><a href="https://zackproser.com/blog/the-workshop">The Workshop</a></strong></td>
+</tr>
+</table>
 
-### Recent Writing
+[→ View all 17 Blueprints](https://zackproser.com/blog?tag=blueprint)
 
-- [Claude Cowork Workshop with Anthropic](https://zackproser.com/blog/claude-cowork-workshop-anthropic) — Full recap + video
-- [My 2026 AI Engineer Setup](https://zackproser.com/blog/2026-ai-engineer-setup) — Tools, workflows, and hardware
-- [Building an Always-On AI Assistant](https://zackproser.com/blog/building-always-on-ai-assistant) — OpenClaw on a System76 Meerkat
-- [Walking and Talking with AI](https://zackproser.com/blog/walking-and-talking-with-ai) — Untethered development from the trails
-- [Connect Oura Ring to Claude via MCP](https://zackproser.com/blog/connect-oura-ring-to-claude-desktop-with-mcp) — Biometrics as development context
+---
 
-### Speaking & Workshops
+## Interactive Demos
 
-<table><tr>
-<td align="center" width="33%"><a href="https://zackproser.com/blog/claude-cowork-workshop-anthropic"><img src="https://zackproser.b-cdn.net/images/claude-cowork-martijn-lancee.webp" width="100%" alt="Full crowd at Claude Cowork Workshop" /></a><br/><em>Cowork Workshop, Feb 2026</em></td>
-<td align="center" width="33%"><a href="https://www.youtube.com/watch?v=kwIzRkzO_Z4"><img src="https://zackproser.b-cdn.net/images/devseccon-2025-keynote.webp" width="100%" alt="DevSecCon 2025 Keynote" /></a><br/><em>DevSecCon Keynote, 2025</em></td>
-<td align="center" width="33%"><a href="https://zackproser.com/blog/a16z-sf-dec-2023-ai-apps-production"><img src="https://zackproser.b-cdn.net/images/a16z-3.webp" width="100%" alt="Presenting at a16z SF" /></a><br/><em>a16z SF, Dec 2023</em></td>
-</tr></table>
+Live tools you can use right now — built into my portfolio site:
 
-| Event | What | When |
-|-------|------|------|
-| **WorkOS x Anthropic** | [Claude Cowork GTM Workshop](https://zackproser.com/blog/claude-cowork-workshop-anthropic) — 800 registrations, hands-on build | Feb 2026 |
-| **DevSecCon 2025** | [Keynote speaker](https://www.youtube.com/watch?v=kwIzRkzO_Z4) — 32-minute talk on AI + security | 2025 |
-| **AI Engineer World Fair** | [Workshop: AI Pipelines & Agents with Mastra.ai](https://zackproser.com/blog/ai-pipelines-and-agents-mastra) — taught 70 engineers | Jun 2025 |
-| **a16z San Francisco** | [From Jupyter Notebooks to Production](https://zackproser.com/blog/a16z-sf-dec-2023-ai-apps-production) — ~125 attendees | Dec 2023 |
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://zackproser.com/demos/local-vs-cloud-ai-coding"><img src="https://zackproser.b-cdn.net/images/blueprint-the-eval-harness-hero.webp" width="100%" alt="Local vs Cloud Benchmark" /></a><br/>
+<strong><a href="https://zackproser.com/demos/local-vs-cloud-ai-coding">Local vs Cloud Benchmark</a></strong><br/><em>60-run evidence explorer</em>
+</td>
+<td align="center" width="33%">
+<a href="https://zackproser.com/demos/tokenize"><img src="https://zackproser.b-cdn.net/images/tokenization-demo-hero.webp" width="100%" alt="Tokenization Lab" /></a><br/>
+<strong><a href="https://zackproser.com/demos/tokenize">Tokenization Lab</a></strong><br/><em>BPE pricing calculator</em>
+</td>
+<td align="center" width="33%">
+<a href="https://zackproser.com/demos/rag-visualized"><img src="https://zackproser.b-cdn.net/images/rag-demo-hero.webp" width="100%" alt="RAG Visualized" /></a><br/>
+<strong><a href="https://zackproser.com/demos/rag-visualized">RAG Visualized</a></strong><br/><em>Pipeline step-through</em>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="https://zackproser.com/demos/embeddings"><img src="https://zackproser.b-cdn.net/images/embeddings-demo-hero.webp" width="100%" alt="Embeddings Explorer" /></a><br/>
+<strong><a href="https://zackproser.com/demos/embeddings">Embeddings Explorer</a></strong><br/><em>3D vector space</em>
+</td>
+<td align="center" width="33%">
+<a href="https://zackproser.com/demos/voice-ai"><img src="https://zackproser.b-cdn.net/images/voice-ai-hero.webp" width="100%" alt="Voice AI Pipeline" /></a><br/>
+<strong><a href="https://zackproser.com/demos/voice-ai">Voice AI Pipeline</a></strong><br/><em>Meeting intelligence</em>
+</td>
+<td align="center" width="33%">
+<br/><br/><h3><a href="https://zackproser.com/demos">→ All 9 demos</a></h3><em>Firecrawl, vertical voice AI,<br/>knowledge bases & more</em>
+</td>
+</tr>
+</table>
 
-[→ All speaking engagements](https://zackproser.com/speaking)
+---
 
-### Research & Publications
+## Publications
 
-- 📄 **[Identity Management for Agentic AI](https://arxiv.org/abs/2510.25819)** — Co-author on arXiv white paper on authentication, authorization, and security for AI agents. With Tobin South, Alex Pentland (MIT), and others. (Oct 2025)
-- 📝 **50+ technical articles** at WorkOS, Pinecone, Cloudflare, and Gruntwork — covering AI agents, RAG pipelines, fine-grained authorization, vector databases, and infrastructure as code
-- 🎤 **134+ articles** on [zackproser.com](https://zackproser.com/blog) + external publications on [The New Stack](https://thenewstack.io), [Prefect.io](https://prefect.io), and [Pinecone Learning Center](https://www.pinecone.io/learn/)
+- **[Identity Management for Agentic AI](https://arxiv.org/abs/2510.25819)** (Oct 2025) — Co-authored white paper on authentication, authorization, and security for AI agents. With Tobin South, Alex Pentland (MIT), and others.
+- **RAG Evaluation chapter** — Official contribution to Pinecone's *Vector Databases in Production* book series.
+- **50+ technical articles** at WorkOS, Pinecone, Cloudflare, Gruntwork — AI agents, RAG pipelines, fine-grained auth, vector DBs, IaC.
+- **134+ articles** on [zackproser.com](https://zackproser.com/blog) + external publications on [The New Stack](https://thenewstack.io), [Prefect.io](https://prefect.io), [Pinecone Learning Center](https://www.pinecone.io/learn/).
 
 [→ Full publications list](https://zackproser.com/publications)
 
-### Career
+---
 
-| | |
-|---|---|
-| **WorkOS** · Applied AI (2025–present) | Building AI workflows, internal tooling, and developer education on the Applied AI team. Created and delivered the Claude Cowork workshop with Anthropic. |
-| **Pinecone** · Staff DevRel (2023–2025) | Shipped RAG pipeline tutorials, AWS reference architectures with Pulumi, and the developer education program during the vector DB explosion. Spoke at a16z SF. |
-| **Cloudflare** · Software Engineer (2020–2023) | Joined when there were ~100 engineers globally. Built [cf-terraforming](https://github.com/cloudflare/cf-terraforming) (1.3K⭐). Shipped APIs, edge infrastructure, and developer tools at massive scale. |
-| **Gruntwork** · Infrastructure Engineer (2018–2020) | Built [git-xargs](https://github.com/gruntwork-io/git-xargs) (1K⭐), contributed to [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) (3.1K⭐). Complex multi-account AWS deployments, Terraform modules, production IaC. |
+## Open Source
 
-### Reach & Influence
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [coding-agent-eval-harness](https://github.com/zackproser/coding-agent-eval-harness) | Open-source benchmark harness for coding agent comparison | NEW |
+| [portfolio](https://github.com/zackproser/portfolio) | This site — Next.js 15, 17 Blueprints, 9 demos, 672 articles | — |
+| [handwave](https://github.com/zackproser/handwave) | watchOS app controlling Claude Code from your wrist | — |
+| [git-xargs](https://github.com/gruntwork-io/git-xargs) | Run commands across many GitHub repos simultaneously | ⭐ 1,086 |
+| [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) | AWS resource cleanup — nuke entire accounts safely | ⭐ 3,121 |
+| [cf-terraforming](https://github.com/cloudflare/cf-terraforming) | Generate Terraform from existing Cloudflare config | ⭐ 1,324 |
 
-<a href="https://zackproser.com"><img src="https://zackproser.b-cdn.net/images/vercel-analytics-2026.webp" width="500" alt="zackproser.com — 104K visitors, +82% YoY" /></a>
+---
 
-**104K+ visitors/year** (+82% YoY) · **133K+ page views** (+60%) · **4,000+ newsletter subscribers**
+## Speaking
 
-My AI tooling reviews and technical deep dives are sought after by investors and operators. I'm a **highly sought-after expert** on leading consultation networks (AlphaSights, Guidepoint, Tegus, GLG, Coleman), regularly advising hedge funds and PE firms evaluating AI infrastructure, developer tools, and cloud platforms.
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://www.youtube.com/watch?v=kwIzRkzO_Z4"><img src="https://img.youtube.com/vi/kwIzRkzO_Z4/hqdefault.jpg" width="100%" alt="DevSecCon 2025 Keynote" /></a><br/>
+<strong>DevSecCon 2025</strong><br/><em>Keynote: Walking and Talking in the Woods with AI</em><br/>Voice-first development · Agent autonomy
+</td>
+<td align="center" width="50%">
+<a href="https://www.youtube.com/watch?v=8bjcx5Hkj5w"><img src="https://img.youtube.com/vi/8bjcx5Hkj5w/maxresdefault.jpg" width="100%" alt="Claude Cowork Workshop" /></a><br/>
+<strong>WorkOS × Anthropic</strong><br/><em>Claude Cowork GTM Workshop</em><br/>800 registrations · Hands-on build with Lydia from Anthropic
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://zackproser.com/blog/aie-london-skills-at-scale"><img src="https://img.youtube.com/vi/pFsfax19yOM/maxresdefault.jpg" width="100%" alt="Skills at Scale Workshop" /></a><br/>
+<strong>AI Engineering London</strong><br/><em>Skills at Scale Workshop (80 min)</em><br/>Claude Code skills across workflows & teams
+</td>
+<td align="center" width="50%">
+<a href="https://www.youtube.com/watch?v=so9l_MwS2yg"><img src="https://img.youtube.com/vi/so9l_MwS2yg/maxresdefault.jpg" width="100%" alt="Untethered Productivity Talk" /></a><br/>
+<strong>AI Engineering London</strong><br/><em>Untethered Productivity</em><br/>Staying healthy, creative & shipping in the AI era
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://www.youtube.com/watch?v=V2PuEAeNXUU&t=3765s"><img src="https://img.youtube.com/vi/V2PuEAeNXUU/maxresdefault.jpg" width="100%" alt="Applied AI Showcase" /></a><br/>
+<strong>WorkOS Applied AI Showcase</strong><br/><em>Three Learnings from Shipping</em><br/>Interface beats stack · Complete the loop
+</td>
+<td align="center" width="50%">
+<a href="https://www.youtube.com/watch?v=GIwt3P_5b9g"><img src="https://img.youtube.com/vi/GIwt3P_5b9g/maxresdefault.jpg" width="100%" alt="a16z Pinecone Talk" /></a><br/>
+<strong>a16z San Francisco</strong><br/><em>From Jupyter Notebooks to Production</em><br/>Pinecone AWS Reference Architecture · ~125 attendees
+</td>
+</tr>
+</table>
 
-The slides for the Cowork workshop were built with Claude's help and Nano Banana (Gemini's image generation API). I use the tools I talk about.
+[→ All speaking engagements](https://zackproser.com/speaking)
+
+---
+
+## Career
+
+| Role | Company | Years | What I did |
+|------|---------|-------|------------|
+| **Applied AI** | [WorkOS](https://workos.com) | 2025–present | AI workflows, internal tooling, developer education. Created Claude Cowork workshop with Anthropic. |
+| **Staff DevRel** | [Pinecone](https://pinecone.io) | 2023–2025 | RAG pipelines, AWS reference architectures, dev education during the vector DB explosion. Spoke at a16z SF. |
+| **Senior Software Engineer** | [Cloudflare](https://cloudflare.com) | 2020–2023 | Joined at ~100 engineers globally. Built `cf-terraforming` (1.3K⭐). APIs, edge infra, dev tools at scale. |
+| **Infrastructure Engineer** | [Gruntwork](https://gruntwork.io) | 2018–2020 | Built `git-xargs` (1K⭐), contributed to `cloud-nuke` (3.1K⭐). Multi-account AWS, Terraform, production IaC. |
+
+---
+
+## Reach
+
+<table align="center">
+<tr>
+<td align="center" width="20%"><h3>12.4M</h3><sub>Search impressions / yr<br/>Google Search Console</sub></td>
+<td align="center" width="20%"><h3>52.5K</h3><sub>Search clicks / yr<br/>avg. position 7.9</sub></td>
+<td align="center" width="20%"><h3>137K</h3><sub>Visitors / yr<br/>+21% YoY</sub></td>
+<td align="center" width="20%"><h3>179K</h3><sub>Page views / yr<br/>+18% YoY</sub></td>
+<td align="center" width="20%"><h3>6,000+</h3><sub>Newsletter<br/>subscribers</sub></td>
+</tr>
+</table>
+
+Regularly advising hedge funds and PE firms on AI infrastructure, developer tools, and cloud platforms via AlphaSights, Guidepoint, Tegus, GLG, Coleman.
 
 ---
 
 <p align="center">
-  <a href="https://zackproser.com">zackproser.com</a> · 
-  <a href="https://twitter.com/zackproser">Twitter</a> · 
-  <a href="https://www.linkedin.com/in/zackproser/">LinkedIn</a> · 
-  <a href="https://youtube.com/@zackproser">YouTube</a>
+  <a href="https://zackproser.com">zackproser.com</a> ·
+  <a href="https://twitter.com/zackproser">Twitter/X</a> ·
+  <a href="https://www.linkedin.com/in/zackproser/">LinkedIn</a> ·
+  <a href="https://youtube.com/@zackproser">YouTube</a> ·
+  <a href="https://mindonfire.net"><img src="img/mind-on-fire-logo.png" width="16" alt="Mind on Fire"/> mindonfire.net</a>
 </p>
