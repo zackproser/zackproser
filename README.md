@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="img/zack-proser-headshot-round.png" width="280" alt="Zack Proser" />
-</p>
-
 <h1 align="center">Zack Proser</h1>
 
 <p align="center">
-  <strong>Independent AI Researcher</strong> · Engineer · Consultant<br/>
+  <strong>Applied AI @ <a href="https://workos.com">WorkOS</a></strong> · Independent AI Researcher · Consultant<br/>
   <em>Local inference economics · Eval methodology · Systems from silicon to prompt</em>
 </p>
 
@@ -129,7 +125,7 @@ Live tools you can use right now — built into my portfolio site:
 - **[Identity Management for Agentic AI](https://arxiv.org/abs/2510.25819)** (Oct 2025) — Co-authored white paper on authentication, authorization, and security for AI agents. With Tobin South, Alex Pentland (MIT), and others.
 - **RAG Evaluation chapter** — Official contribution to Pinecone's *Vector Databases in Production* book series.
 - **50+ technical articles** at WorkOS, Pinecone, Cloudflare, Gruntwork — AI agents, RAG pipelines, fine-grained auth, vector DBs, IaC.
-- **134+ articles** on [zackproser.com](https://zackproser.com/blog) + external publications on [The New Stack](https://thenewstack.io), [Prefect.io](https://prefect.io), [Pinecone Learning Center](https://www.pinecone.io/learn/).
+- **180+ essays** on [zackproser.com](https://zackproser.com/blog) + external publications on [The New Stack](https://thenewstack.io), [Prefect.io](https://prefect.io), [Pinecone Learning Center](https://www.pinecone.io/learn/).
 
 [→ Full publications list](https://zackproser.com/publications)
 
@@ -140,7 +136,7 @@ Live tools you can use right now — built into my portfolio site:
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [coding-agent-eval-harness](https://github.com/zackproser/coding-agent-eval-harness) | Open-source benchmark harness for coding agent comparison | NEW |
-| [portfolio](https://github.com/zackproser/portfolio) | This site — Next.js 15, 17 Blueprints, 9 demos, 672 articles | — |
+| [portfolio](https://github.com/zackproser/portfolio) | zackproser.com — Next.js 15, 17 Blueprints, 9 demos, 180+ essays | — |
 | [handwave](https://github.com/zackproser/handwave) | watchOS app controlling Claude Code from your wrist | — |
 | [git-xargs](https://github.com/gruntwork-io/git-xargs) | Run commands across many GitHub repos simultaneously | ⭐ 1,086 |
 | [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) | AWS resource cleanup — nuke entire accounts safely | ⭐ 3,121 |
