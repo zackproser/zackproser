@@ -187,10 +187,13 @@ Live tools you can use right now — built into my portfolio site:
 
 | Role | Company | Years | What I did |
 |------|---------|-------|------------|
-| **Applied AI** | [WorkOS](https://workos.com) | 2025–present | AI workflows, internal tooling, developer education. Created Claude Cowork workshop with Anthropic. |
-| **Staff DevRel** | [Pinecone](https://pinecone.io) | 2023–2025 | RAG pipelines, AWS reference architectures, dev education during the vector DB explosion. Spoke at a16z SF. |
-| **Senior Software Engineer** | [Cloudflare](https://cloudflare.com) | 2020–2023 | Joined at ~100 engineers globally. Built `cf-terraforming` (1.3K⭐). APIs, edge infra, dev tools at scale. |
-| **Infrastructure Engineer** | [Gruntwork](https://gruntwork.io) | 2018–2020 | Built `git-xargs` (1K⭐), contributed to `cloud-nuke` (3.1K⭐). Multi-account AWS, Terraform, production IaC. |
+| **AI Engineer · Applied AI** | [WorkOS](https://workos.com) | 2025–present | AI workflows, internal tooling, AuthKit-secured MCP servers, developer education. Created Claude Cowork workshop with Anthropic. |
+| **Developer Education** | [WorkOS](https://workos.com) | 2024–2025 | Internal RAG pipelines and chatbots, public MCP servers and starter kits, internal AI workshops. |
+| **Staff Developer Advocate** | [Pinecone](https://pinecone.io) | 2023–2024 | RAG pipelines, AWS reference architectures, dev education during the vector DB explosion. Spoke at a16z SF. |
+| **Tech Lead** | [Gruntwork](https://gruntwork.io) | 2020–2023 | Built `git-xargs` (1K⭐), contributed to `cloud-nuke` (3.1K⭐). Multi-account AWS, Terraform, production IaC. |
+| **Senior Software Engineer** | [Cloudflare](https://cloudflare.com) | 2017–2020 | Joined at ~100 engineers globally. Built `cf-terraforming` (1.3K⭐). APIs, edge infra, dev tools at scale. |
+| **Software Engineer** | Cloudmark (now Proofpoint) | 2015–2017 | Golang services, Salesforce-integrated auth, and UX for a new enterprise spear-phishing product. |
+| **Software Engineer** | BrightContext | 2012–2014 | Employee #9 at a real-time stream-processing startup. Node.js SDK demos, automated testing, release QA, developer docs. |
 
 ---
 
